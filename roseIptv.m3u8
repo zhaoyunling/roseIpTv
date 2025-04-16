@@ -1,0 +1,1552 @@
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" group-title="央视IPV4",重温经典
+http://148.135.93.213/live.php?id=重温经典
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="央视IPV4",CHC家庭影院
+http://148.135.93.213/live.php?id=CHC家庭影院
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="央视IPV4",CHC动作电影
+http://148.135.93.213/live.php?id=CHC动作电影
+#EXTINF:-1 tvg-name="CHC影迷电影" group-title="央视IPV4",CHC影迷电影
+http://148.135.93.213/live.php?id=CHC影迷电影
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视IPV4",CCTV1
+http://148.135.93.213/live.php?id=CCTV1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视IPV4",CCTV2
+http://148.135.93.213/live.php?id=CCTV2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视IPV4",CCTV3
+http://148.135.93.213/live.php?id=CCTV3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视IPV4",CCTV4
+http://148.135.93.213/live.php?id=CCTV4
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视IPV4",CCTV5
+http://148.135.93.213/live.php?id=CCTV5
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" group-title="央视IPV4",CCTV5+
+http://148.135.93.213/live.php?id=CCTV5p
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视IPV4",CCTV6
+http://148.135.93.213/live.php?id=CCTV6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视IPV4",CCTV7
+http://148.135.93.213/live.php?id=CCTV7
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视IPV4",CCTV8
+http://148.135.93.213/live.php?id=CCTV8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视IPV4",CCTV9
+http://148.135.93.213/live.php?id=CCTV9
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视IPV4",CCTV10
+http://148.135.93.213/live.php?id=CCTV10
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视IPV4",CCTV11
+http://148.135.93.213/live.php?id=CCTV11
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视IPV4",CCTV12
+http://148.135.93.213/live.php?id=CCTV12
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视IPV4",CCTV13
+http://148.135.93.213/live.php?id=CCTV13
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视IPV4",CCTV14
+http://148.135.93.213/live.php?id=CCTV14
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视IPV4",CCTV15
+http://148.135.93.213/live.php?id=CCTV15
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视IPV4",CCTV16
+http://148.135.93.213/live.php?id=CCTV16
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视IPV4",CCTV17
+http://148.135.93.213/live.php?id=CCTV17
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视IPV4",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视IPV4",CGTN纪录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视IPV4",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视IPV4",CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视IPV4",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视IPV4",CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" http-header="Referer=https://live.kankanews.com/" group-title="卫视IPV4",五星体育
+http://148.135.93.213/live.php?id=五星体育
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="卫视IPV4",凤凰资讯
+http://148.135.93.213/phenix.php?id=fhzx
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="卫视IPV4",凤凰中文
+http://148.135.93.213/phenix.php?id=fhzw
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="卫视IPV4",凤凰香港
+http://148.135.93.213/phenix.php?id=fhhk
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.aptv.app/logo/香港卫视.png" group-title="卫视IPV4",香港卫视
+http://148.135.93.213/live.php?id=香港卫视
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视IPV4",北京卫视
+http://148.135.93.213/live.php?id=北京卫视
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视IPV4",湖南卫视
+http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视IPV4",浙江卫视
+http://148.135.93.213/live.php?id=浙江卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视IPV4",江苏卫视
+http://148.135.93.213/live.php?id=江苏卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视IPV4",陕西卫视
+http://148.135.93.213/live.php?id=陕西卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视IPV4",湖北卫视
+http://148.135.93.213/live.php?id=湖北卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视IPV4",内蒙古卫视
+http://148.135.93.213/live.php?id=内蒙古卫视
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视IPV4",江西卫视
+http://148.135.93.213/live.php?id=江西卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视IPV4",广东卫视
+http://148.135.93.213/live.php?id=广东卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视IPV4",东方卫视
+http://148.135.93.213/live.php?id=东方卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视IPV4",西藏卫视
+http://148.135.93.213/live.php?id=西藏卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视IPV4",新疆卫视
+http://148.135.93.213/live.php?id=新疆卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视IPV4",青海卫视
+http://148.135.93.213/live.php?id=青海卫视
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视IPV4",东南卫视
+http://148.135.93.213/live.php?id=东南卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视IPV4",吉林卫视
+http://148.135.93.213/live.php?id=吉林卫视
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视IPV4",四川卫视
+http://148.135.93.213/live.php?id=四川卫视
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视IPV4",天津卫视
+http://148.135.93.213/live.php?id=天津卫视
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视IPV4",安徽卫视
+http://148.135.93.213/live.php?id=安徽卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视IPV4",山东卫视
+http://148.135.93.213/live.php?id=山东卫视
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视IPV4",山西卫视
+http://148.135.93.213/live.php?id=山西卫视
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视IPV4",广西卫视
+http://148.135.93.213/live.php?id=广西卫视
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视IPV4",河北卫视
+http://148.135.93.213/live.php?id=河北卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视IPV4",河南卫视
+http://148.135.93.213/live.php?id=河南卫视
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视IPV4",深圳卫视
+http://148.135.93.213/live.php?id=深圳卫视
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视IPV4",甘肃卫视
+http://148.135.93.213/live.php?id=甘肃卫视
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视IPV4",贵州卫视
+http://148.135.93.213/live.php?id=贵州卫视
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视IPV4",辽宁卫视
+http://148.135.93.213/live.php?id=辽宁卫视
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视IPV4",重庆卫视
+http://148.135.93.213/live.php?id=重庆卫视
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视IPV4",黑龙江卫视
+http://148.135.93.213/live.php?id=黑龙江卫视
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视IPV4",海南卫视
+http://148.135.93.213/live.php?id=海南卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视IPV4",大湾区卫视
+http://148.135.93.213/live.php?id=大湾区卫视
+
+
+#EXTINF:-1 tvg-id="春晚1983" tvg-name="春晚1983" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1983
+https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+#EXTINF:-1 tvg-id="春晚1984" tvg-name="春晚1984" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1984
+https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+#EXTINF:-1 tvg-id="春晚1985" tvg-name="春晚1985" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1985
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+#EXTINF:-1 tvg-id="春晚1986" tvg-name="春晚1986" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1986
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+#EXTINF:-1 tvg-id="春晚1987" tvg-name="春晚1987" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1987
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+#EXTINF:-1 tvg-id="春晚1988" tvg-name="春晚1988" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1988
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+#EXTINF:-1 tvg-id="春晚1989" tvg-name="春晚1989" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1989
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+#EXTINF:-1 tvg-id="春晚1990" tvg-name="春晚1990" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1990
+https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="春晚1991" tvg-name="春晚1991" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1991
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+#EXTINF:-1 tvg-id="春晚1992" tvg-name="春晚1992" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1992
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+#EXTINF:-1 tvg-id="春晚1993" tvg-name="春晚1993" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1993
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+#EXTINF:-1 tvg-id="春晚1994" tvg-name="春晚1994" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1994
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+#EXTINF:-1 tvg-id="春晚1995" tvg-name="春晚1995" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1995
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+#EXTINF:-1 tvg-id="春晚1996" tvg-name="春晚1996" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1996
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+#EXTINF:-1 tvg-id="春晚1997" tvg-name="春晚1997" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1997
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 tvg-id="春晚1998" tvg-name="春晚1998" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1998
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+#EXTINF:-1 tvg-id="春晚1999" tvg-name="春晚1999" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1999
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+#EXTINF:-1 tvg-id="春晚2000" tvg-name="春晚2000" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2000
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+#EXTINF:-1 tvg-id="春晚2001" tvg-name="春晚2001" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2001
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+#EXTINF:-1 tvg-id="春晚2002" tvg-name="春晚2002" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2002
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+#EXTINF:-1 tvg-id="春晚2003" tvg-name="春晚2003" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2003
+https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+#EXTINF:-1 tvg-id="春晚2004" tvg-name="春晚2004" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2004
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+#EXTINF:-1 tvg-id="春晚2005" tvg-name="春晚2005" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2005
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+#EXTINF:-1 tvg-id="春晚2006" tvg-name="春晚2006" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2006
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+#EXTINF:-1 tvg-id="春晚2007" tvg-name="春晚2007" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2007
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+#EXTINF:-1 tvg-id="春晚2008" tvg-name="春晚2008" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2008
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+#EXTINF:-1 tvg-id="春晚2009" tvg-name="春晚2009" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2009
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+#EXTINF:-1 tvg-id="春晚2010" tvg-name="春晚2010" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2010
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+#EXTINF:-1 tvg-id="春晚2011" tvg-name="春晚2011" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2011
+https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+#EXTINF:-1 tvg-id="春晚2012" tvg-name="春晚2012" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2012
+https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="春晚2013" tvg-name="春晚2013" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2013
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+#EXTINF:-1 tvg-id="春晚2014" tvg-name="春晚2014" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2014
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+#EXTINF:-1 tvg-id="春晚2015" tvg-name="春晚2015" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2015
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+#EXTINF:-1 tvg-id="春晚2016" tvg-name="春晚2016" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2016
+https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-id="春晚2017" tvg-name="春晚2017" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2017
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+#EXTINF:-1 tvg-id="春晚2018" tvg-name="春晚2018" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2018
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+#EXTINF:-1 tvg-id="春晚2019" tvg-name="春晚2019" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2019
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+#EXTINF:-1 tvg-id="春晚2020" tvg-name="春晚2020" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2020
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+#EXTINF:-1 tvg-id="春晚2021" tvg-name="春晚2021" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2021
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+#EXTINF:-1 tvg-id="春晚2022" tvg-name="春晚2022" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2022
+https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+#EXTINF:-1 tvg-id="春晚2023" tvg-name="春晚2023" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2023
+https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+#EXTINF:-1 tvg-id="春晚2024" tvg-name="春晚2024" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2024
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1 tvg-id="春晚2025" tvg-name="春晚2025" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2025
+https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
+
+#EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" tvg-logo="http://logo.diyp.site:49377/logo.php?直播中国" group-title="直播中国",直播中国
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="新疆天山(定海神针)" tvg-name="新疆天山(定海神针)" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆天山(定海神针)" group-title="直播中国",新疆天山(定海神针)
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 tvg-id="黄花城水长城02" tvg-name="黄花城水长城02" tvg-logo="http://logo.diyp.site:49377/logo.php?黄花城水长城02" group-title="直播中国",黄花城水长城02
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 tvg-id="湖南张家界水绕四门" tvg-name="湖南张家界水绕四门" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南张家界水绕四门" group-title="直播中国",湖南张家界水绕四门
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 tvg-id="湖南张家界将军列队" tvg-name="湖南张家界将军列队" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南张家界将军列队" group-title="直播中国",湖南张家界将军列队
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+#EXTINF:-1 tvg-id="湖南张家界阿凡达悬浮山" tvg-name="湖南张家界阿凡达悬浮山" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南张家界阿凡达悬浮山" group-title="直播中国",湖南张家界阿凡达悬浮山
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
+#EXTINF:-1 tvg-id="湖南张家界迷魂台" tvg-name="湖南张家界迷魂台" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南张家界迷魂台" group-title="直播中国",湖南张家界迷魂台
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
+#EXTINF:-1 tvg-id="湖南张家界宝峰湖" tvg-name="湖南张家界宝峰湖" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南张家界宝峰湖" group-title="直播中国",湖南张家界宝峰湖
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 tvg-id="湖南张家界御笔峰" tvg-name="湖南张家界御笔峰" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南张家界御笔峰" group-title="直播中国",湖南张家界御笔峰
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+#EXTINF:-1 tvg-id="四川峨眉山云海日出" tvg-name="四川峨眉山云海日出" tvg-logo="http://logo.diyp.site:49377/logo.php?四川峨眉山云海日出" group-title="直播中国",四川峨眉山云海日出
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 tvg-id="四川峨眉山远眺贡嘎山" tvg-name="四川峨眉山远眺贡嘎山" tvg-logo="http://logo.diyp.site:49377/logo.php?四川峨眉山远眺贡嘎山" group-title="直播中国",四川峨眉山远眺贡嘎山
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 tvg-id="四川峨眉山贤菩萨铜像" tvg-name="四川峨眉山贤菩萨铜像" tvg-logo="http://logo.diyp.site:49377/logo.php?四川峨眉山贤菩萨铜像" group-title="直播中国",四川峨眉山贤菩萨铜像
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1 tvg-id="四川峨眉山远眺万佛顶" tvg-name="四川峨眉山远眺万佛顶" tvg-logo="http://logo.diyp.site:49377/logo.php?四川峨眉山远眺万佛顶" group-title="直播中国",四川峨眉山远眺万佛顶
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 tvg-id="浙江杭州云栖小镇" tvg-name="浙江杭州云栖小镇" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江杭州云栖小镇" group-title="直播中国",浙江杭州云栖小镇
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
+#EXTINF:-1 tvg-id="重庆石柱华溪村" tvg-name="重庆石柱华溪村" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆石柱华溪村" group-title="直播中国",重庆石柱华溪村
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/jsh02_1/index.m3u8
+#EXTINF:-1 tvg-id="安徽金寨大湾村" tvg-name="安徽金寨大湾村" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽金寨大湾村" group-title="直播中国",安徽金寨大湾村
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/szgk01_1/index.m3u8
+#EXTINF:-1 tvg-id="山西苛岚宋家沟新村" tvg-name="山西苛岚宋家沟新村" tvg-logo="http://logo.diyp.site:49377/logo.php?山西苛岚宋家沟新村" group-title="直播中国",山西苛岚宋家沟新村
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/wysdhpcy_1/index.m3u8
+#EXTINF:-1 tvg-id="河北张北德胜村" tvg-name="河北张北德胜村" tvg-logo="http://logo.diyp.site:49377/logo.php?河北张北德胜村" group-title="直播中国",河北张北德胜村
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/pygc01_1/index.m3u8
+#EXTINF:-1 tvg-id="新疆天山(海西平台)" tvg-name="新疆天山(海西平台)" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆天山(海西平台)" group-title="直播中国",新疆天山(海西平台)
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/xjtchxpt_1/index.m3u8
+#EXTINF:-1 tvg-id="新疆天山(定海神针)" tvg-name="新疆天山(定海神针)" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆天山(定海神针)" group-title="直播中国",新疆天山(定海神针)
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 tvg-id="新疆天山(马牙山)" tvg-name="新疆天山(马牙山)" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆天山(马牙山)" group-title="直播中国",新疆天山(马牙山)
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
+#EXTINF:-1 tvg-id="新疆天山(灯杆山)" tvg-name="新疆天山(灯杆山)" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆天山(灯杆山)" group-title="直播中国",新疆天山(灯杆山)
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
+#EXTINF:-1 tvg-id="湖南张家界天门山西线玻璃栈道" tvg-name="湖南张家界天门山西线玻璃栈道" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南张家界天门山西线玻璃栈道" group-title="直播中国",湖南张家界天门山西线玻璃栈道
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 tvg-id="湖南张家界天门山天门洞" tvg-name="湖南张家界天门山天门洞" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南张家界天门山天门洞" group-title="直播中国",湖南张家界天门山天门洞
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
+#EXTINF:-1 tvg-id="湖南张家界天门山天空步道" tvg-name="湖南张家界天门山天空步道" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南张家界天门山天空步道" group-title="直播中国",湖南张家界天门山天空步道
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
+#EXTINF:-1 tvg-id="湖南张家界天门山云梦仙顶" tvg-name="湖南张家界天门山云梦仙顶" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南张家界天门山云梦仙顶" group-title="直播中国",湖南张家界天门山云梦仙顶
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8
+#EXTINF:-1 tvg-id="厦门鼓浪屿" tvg-name="厦门鼓浪屿" tvg-logo="http://logo.diyp.site:49377/logo.php?厦门鼓浪屿" group-title="直播中国",厦门鼓浪屿
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 tvg-id="广西玉林大容山莲花山顶" tvg-name="广西玉林大容山莲花山顶" tvg-logo="http://logo.diyp.site:49377/logo.php?广西玉林大容山莲花山顶" group-title="直播中国",广西玉林大容山莲花山顶
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 tvg-id="八里沟风景区桃花湾瀑布" tvg-name="八里沟风景区桃花湾瀑布" tvg-logo="http://logo.diyp.site:49377/logo.php?八里沟风景区桃花湾瀑布" group-title="直播中国",八里沟风景区桃花湾瀑布
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 tvg-id="八里沟风景区天界山玻璃栈道" tvg-name="八里沟风景区天界山玻璃栈道" tvg-logo="http://logo.diyp.site:49377/logo.php?八里沟风景区天界山玻璃栈道" group-title="直播中国",八里沟风景区天界山玻璃栈道
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 tvg-id="汶川映秀新城" tvg-name="汶川映秀新城" tvg-logo="http://logo.diyp.site:49377/logo.php?汶川映秀新城" group-title="直播中国",汶川映秀新城
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/wcyxxc01_1/index.m3u8
+#EXTINF:-1 tvg-id="十八洞村" tvg-name="十八洞村" tvg-logo="http://logo.diyp.site:49377/logo.php?十八洞村" group-title="直播中国",十八洞村
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/sbd01_1/index.m3u8
+#EXTINF:-1 tvg-id="趵突泉" tvg-name="趵突泉" tvg-logo="http://logo.diyp.site:49377/logo.php?趵突泉" group-title="直播中国",趵突泉
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
+#EXTINF:-1 tvg-id="安徽池州九华山风景区拜经台" tvg-name="安徽池州九华山风景区拜经台" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽池州九华山风景区拜经台" group-title="直播中国",安徽池州九华山风景区拜经台
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8
+#EXTINF:-1 tvg-id="安徽池州九华山风景区九华山" tvg-name="安徽池州九华山风景区九华山" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽池州九华山风景区九华山" group-title="直播中国",安徽池州九华山风景区九华山
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1 tvg-id="安徽池州九华山风景区花台" tvg-name="安徽池州九华山风景区花台" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽池州九华山风景区花台" group-title="直播中国",安徽池州九华山风景区花台
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
+#EXTINF:-1 tvg-id="江苏徐州云龙湖风景区云龙山观景台西" tvg-name="江苏徐州云龙湖风景区云龙山观景台西" tvg-logo="http://logo.diyp.site:49377/logo.php?江苏徐州云龙湖风景区云龙山观景台西" group-title="直播中国",江苏徐州云龙湖风景区云龙山观景台西
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 tvg-id="江苏徐州云龙湖风景区云龙山观景台南" tvg-name="江苏徐州云龙湖风景区云龙山观景台南" tvg-logo="http://logo.diyp.site:49377/logo.php?江苏徐州云龙湖风景区云龙山观景台南" group-title="直播中国",江苏徐州云龙湖风景区云龙山观景台南
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8
+#EXTINF:-1 tvg-id="浙江杭州千岛湖" tvg-name="浙江杭州千岛湖" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江杭州千岛湖" group-title="直播中国",浙江杭州千岛湖
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8
+#EXTINF:-1 tvg-id="南京玄武湖公园" tvg-name="南京玄武湖公园" tvg-logo="http://logo.diyp.site:49377/logo.php?南京玄武湖公园" group-title="直播中国",南京玄武湖公园
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 tvg-id="云南丽江玉湖" tvg-name="云南丽江玉湖" tvg-logo="http://logo.diyp.site:49377/logo.php?云南丽江玉湖" group-title="直播中国",云南丽江玉湖
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
+#EXTINF:-1 tvg-id="云南丽江蓝月谷" tvg-name="云南丽江蓝月谷" tvg-logo="http://logo.diyp.site:49377/logo.php?云南丽江蓝月谷" group-title="直播中国",云南丽江蓝月谷
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 tvg-id="云南丽江一滴水过丽江" tvg-name="云南丽江一滴水过丽江" tvg-logo="http://logo.diyp.site:49377/logo.php?云南丽江一滴水过丽江" group-title="直播中国",云南丽江一滴水过丽江
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
+#EXTINF:-1 tvg-id="云南丽江玉龙山草甸" tvg-name="云南丽江玉龙山草甸" tvg-logo="http://logo.diyp.site:49377/logo.php?云南丽江玉龙山草甸" group-title="直播中国",云南丽江玉龙山草甸
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+#EXTINF:-1 tvg-id="云南丽江白水台" tvg-name="云南丽江白水台" tvg-logo="http://logo.diyp.site:49377/logo.php?云南丽江白水台" group-title="直播中国",云南丽江白水台
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkylxs07_1/index.m3u8
+#EXTINF:-1 tvg-id="云南丽江蓝月谷中游湖面" tvg-name="云南丽江蓝月谷中游湖面" tvg-logo="http://logo.diyp.site:49377/logo.php?云南丽江蓝月谷中游湖面" group-title="直播中国",云南丽江蓝月谷中游湖面
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
+#EXTINF:-1 tvg-id="云南丽江高尔夫" tvg-name="云南丽江高尔夫" tvg-logo="http://logo.diyp.site:49377/logo.php?云南丽江高尔夫" group-title="直播中国",云南丽江高尔夫
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
+#EXTINF:-1 tvg-id="云南丽江冰川" tvg-name="云南丽江冰川" tvg-logo="http://logo.diyp.site:49377/logo.php?云南丽江冰川" group-title="直播中国",云南丽江冰川
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 tvg-id="云南丽江印象实景" tvg-name="云南丽江印象实景" tvg-logo="http://logo.diyp.site:49377/logo.php?云南丽江印象实景" group-title="直播中国",云南丽江印象实景
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 tvg-id="江苏南京牛首山" tvg-name="江苏南京牛首山" tvg-logo="http://logo.diyp.site:49377/logo.php?江苏南京牛首山" group-title="直播中国",江苏南京牛首山
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 tvg-id="福建漳州六鳌翡翠湾" tvg-name="福建漳州六鳌翡翠湾" tvg-logo="http://logo.diyp.site:49377/logo.php?福建漳州六鳌翡翠湾" group-title="直播中国",福建漳州六鳌翡翠湾
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
+#EXTINF:-1 tvg-id="福建漳州醉美沙滩翡翠湾" tvg-name="福建漳州醉美沙滩翡翠湾" tvg-logo="http://logo.diyp.site:49377/logo.php?福建漳州醉美沙滩翡翠湾" group-title="直播中国",福建漳州醉美沙滩翡翠湾
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 tvg-id="天津之眼" tvg-name="天津之眼" tvg-logo="http://logo.diyp.site:49377/logo.php?天津之眼" group-title="直播中国",天津之眼
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
+#EXTINF:-1 tvg-id="四川西昌邛海景区" tvg-name="四川西昌邛海景区" tvg-logo="http://logo.diyp.site:49377/logo.php?四川西昌邛海景区" group-title="直播中国",四川西昌邛海景区
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/xcqh01_1/index.m3u8
+#EXTINF:-1 tvg-id="普陀山" tvg-name="普陀山" tvg-logo="http://logo.diyp.site:49377/logo.php?普陀山" group-title="直播中国",普陀山
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 tvg-id="浙江舟山东极岛" tvg-name="浙江舟山东极岛" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江舟山东极岛" group-title="直播中国",浙江舟山东极岛
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 tvg-id="河南郑东新区千玺广场" tvg-name="河南郑东新区千玺广场" tvg-logo="http://logo.diyp.site:49377/logo.php?河南郑东新区千玺广场" group-title="直播中国",河南郑东新区千玺广场
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
+#EXTINF:-1 tvg-id="四川四姑娘山幺妹峰" tvg-name="四川四姑娘山幺妹峰" tvg-logo="http://logo.diyp.site:49377/logo.php?四川四姑娘山幺妹峰" group-title="直播中国",四川四姑娘山幺妹峰
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/sgns01_1/index.m3u8
+#EXTINF:-1 tvg-id="四川四姑娘山隆珠措" tvg-name="四川四姑娘山隆珠措" tvg-logo="http://logo.diyp.site:49377/logo.php?四川四姑娘山隆珠措" group-title="直播中国",四川四姑娘山隆珠措
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+#EXTINF:-1 tvg-id="宁夏沙坡头长河落日" tvg-name="宁夏沙坡头长河落日" tvg-logo="http://logo.diyp.site:49377/logo.php?宁夏沙坡头长河落日" group-title="直播中国",宁夏沙坡头长河落日
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
+#EXTINF:-1 tvg-id="宁夏沙坡头大漠孤烟" tvg-name="宁夏沙坡头大漠孤烟" tvg-logo="http://logo.diyp.site:49377/logo.php?宁夏沙坡头大漠孤烟" group-title="直播中国",宁夏沙坡头大漠孤烟
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/nxsptdmgy_1/index.m3u8
+#EXTINF:-1 tvg-id="丽江古城大研花巷观景" tvg-name="丽江古城大研花巷观景" tvg-logo="http://logo.diyp.site:49377/logo.php?丽江古城大研花巷观景" group-title="直播中国",丽江古城大研花巷观景
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 tvg-id="丽江古城大水车" tvg-name="丽江古城大水车" tvg-logo="http://logo.diyp.site:49377/logo.php?丽江古城大水车" group-title="直播中国",丽江古城大水车
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 tvg-id="丽江古城万古楼遥望玉龙山" tvg-name="丽江古城万古楼遥望玉龙山" tvg-logo="http://logo.diyp.site:49377/logo.php?丽江古城万古楼遥望玉龙山" group-title="直播中国",丽江古城万古楼遥望玉龙山
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 tvg-id="狮子山鸟瞰丽江古城" tvg-name="狮子山鸟瞰丽江古城" tvg-logo="http://logo.diyp.site:49377/logo.php?狮子山鸟瞰丽江古城" group-title="直播中国",狮子山鸟瞰丽江古城
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 tvg-id="云台山小寨沟" tvg-name="云台山小寨沟" tvg-logo="http://logo.diyp.site:49377/logo.php?云台山小寨沟" group-title="直播中国",云台山小寨沟
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8
+#EXTINF:-1 tvg-id="云台山百家岩" tvg-name="云台山百家岩" tvg-logo="http://logo.diyp.site:49377/logo.php?云台山百家岩" group-title="直播中国",云台山百家岩
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8
+#EXTINF:-1 tvg-id="云台山红石峡" tvg-name="云台山红石峡" tvg-logo="http://logo.diyp.site:49377/logo.php?云台山红石峡" group-title="直播中国",云台山红石峡
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
+#EXTINF:-1 tvg-id="云台山茱萸峰" tvg-name="云台山茱萸峰" tvg-logo="http://logo.diyp.site:49377/logo.php?云台山茱萸峰" group-title="直播中国",云台山茱萸峰
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
+#EXTINF:-1 tvg-id="雪乡梦幻家园" tvg-name="雪乡梦幻家园" tvg-logo="http://logo.diyp.site:49377/logo.php?雪乡梦幻家园" group-title="直播中国",雪乡梦幻家园
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 tvg-id="雪乡梦幻家园观景台" tvg-name="雪乡梦幻家园观景台" tvg-logo="http://logo.diyp.site:49377/logo.php?雪乡梦幻家园观景台" group-title="直播中国",雪乡梦幻家园观景台
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
+#EXTINF:-1 tvg-id="雪乡大石碑" tvg-name="雪乡大石碑" tvg-logo="http://logo.diyp.site:49377/logo.php?雪乡大石碑" group-title="直播中国",雪乡大石碑
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 tvg-id="乌镇蓝印花布" tvg-name="乌镇蓝印花布" tvg-logo="http://logo.diyp.site:49377/logo.php?乌镇蓝印花布" group-title="直播中国",乌镇蓝印花布
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1 tvg-id="乌镇西市河" tvg-name="乌镇西市河" tvg-logo="http://logo.diyp.site:49377/logo.php?乌镇西市河" group-title="直播中国",乌镇西市河
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 tvg-id="乌镇龙形田" tvg-name="乌镇龙形田" tvg-logo="http://logo.diyp.site:49377/logo.php?乌镇龙形田" group-title="直播中国",乌镇龙形田
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 tvg-id="乌镇全景" tvg-name="乌镇全景" tvg-logo="http://logo.diyp.site:49377/logo.php?乌镇全景" group-title="直播中国",乌镇全景
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 tvg-id="凤凰古城南华山" tvg-name="凤凰古城南华山" tvg-logo="http://logo.diyp.site:49377/logo.php?凤凰古城南华山" group-title="直播中国",凤凰古城南华山
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
+#EXTINF:-1 tvg-id="凤凰古城东关门" tvg-name="凤凰古城东关门" tvg-logo="http://logo.diyp.site:49377/logo.php?凤凰古城东关门" group-title="直播中国",凤凰古城东关门
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 tvg-id="黄花城水长城01" tvg-name="黄花城水长城01" tvg-logo="http://logo.diyp.site:49377/logo.php?黄花城水长城01" group-title="直播中国",黄花城水长城01
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 tvg-id="黄花城水长城02" tvg-name="黄花城水长城02" tvg-logo="http://logo.diyp.site:49377/logo.php?黄花城水长城02" group-title="直播中国",黄花城水长城02
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 tvg-id="黄花城水长城03" tvg-name="黄花城水长城03" tvg-logo="http://logo.diyp.site:49377/logo.php?黄花城水长城03" group-title="直播中国",黄花城水长城03
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 tvg-id="黄花城水长城04" tvg-name="黄花城水长城04" tvg-logo="http://logo.diyp.site:49377/logo.php?黄花城水长城04" group-title="直播中国",黄花城水长城04
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8
+#EXTINF:-1 tvg-id="鸣沙山" tvg-name="鸣沙山" tvg-logo="http://logo.diyp.site:49377/logo.php?鸣沙山" group-title="直播中国",鸣沙山
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 tvg-id="鸣沙山山门" tvg-name="鸣沙山山门" tvg-logo="http://logo.diyp.site:49377/logo.php?鸣沙山山门" group-title="直播中国",鸣沙山山门
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
+#EXTINF:-1 tvg-id="月牙泉" tvg-name="月牙泉" tvg-logo="http://logo.diyp.site:49377/logo.php?月牙泉" group-title="直播中国",月牙泉
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 tvg-id="五彩池" tvg-name="五彩池" tvg-logo="http://logo.diyp.site:49377/logo.php?五彩池" group-title="直播中国",五彩池
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 tvg-id="黄龙" tvg-name="黄龙" tvg-logo="http://logo.diyp.site:49377/logo.php?黄龙" group-title="直播中国",黄龙
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+#EXTINF:-1 tvg-id="望乡台" tvg-name="望乡台" tvg-logo="http://logo.diyp.site:49377/logo.php?望乡台" group-title="直播中国",望乡台
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 tvg-id="洗身洞" tvg-name="洗身洞" tvg-logo="http://logo.diyp.site:49377/logo.php?洗身洞" group-title="直播中国",洗身洞
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山主峰" tvg-name="泰山主峰" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山主峰" group-title="直播中国",泰山主峰
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山大观峰" tvg-name="泰山大观峰" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山大观峰" group-title="直播中国",泰山大观峰
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山拱北石" tvg-name="泰山拱北石" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山拱北石" group-title="直播中国",泰山拱北石
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山玉皇顶" tvg-name="泰山玉皇顶" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山玉皇顶" group-title="直播中国",泰山玉皇顶
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山十八盘" tvg-name="泰山十八盘" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山十八盘" group-title="直播中国",泰山十八盘
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山天街" tvg-name="泰山天街" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山天街" group-title="直播中国",泰山天街
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山经石峪" tvg-name="泰山经石峪" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山经石峪" group-title="直播中国",泰山经石峪
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山望人松" tvg-name="泰山望人松" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山望人松" group-title="直播中国",泰山望人松
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山龙潭水库" tvg-name="泰山龙潭水库" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山龙潭水库" group-title="直播中国",泰山龙潭水库
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山南天门" tvg-name="泰山南天门" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山南天门" group-title="直播中国",泰山南天门
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山白云亭悬崖" tvg-name="泰山白云亭悬崖" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山白云亭悬崖" group-title="直播中国",泰山白云亭悬崖
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山扇子崖" tvg-name="泰山扇子崖" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山扇子崖" group-title="直播中国",泰山扇子崖
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山太平岭" tvg-name="泰山太平岭" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山太平岭" group-title="直播中国",泰山太平岭
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山碧霞祠" tvg-name="泰山碧霞祠" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山碧霞祠" group-title="直播中国",泰山碧霞祠
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山玉皇顶东" tvg-name="泰山玉皇顶东" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山玉皇顶东" group-title="直播中国",泰山玉皇顶东
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8
+#EXTINF:-1 tvg-id="泰山玉皇顶西" tvg-name="泰山玉皇顶西" tvg-logo="http://logo.diyp.site:49377/logo.php?泰山玉皇顶西" group-title="直播中国",泰山玉皇顶西
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8
+#EXTINF:-1 tvg-id="黄山始信新道" tvg-name="黄山始信新道" tvg-logo="http://logo.diyp.site:49377/logo.php?黄山始信新道" group-title="直播中国",黄山始信新道
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 tvg-id="黄山梦笔生花" tvg-name="黄山梦笔生花" tvg-logo="http://logo.diyp.site:49377/logo.php?黄山梦笔生花" group-title="直播中国",黄山梦笔生花
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8
+#EXTINF:-1 tvg-id="黄山排云亭" tvg-name="黄山排云亭" tvg-logo="http://logo.diyp.site:49377/logo.php?黄山排云亭" group-title="直播中国",黄山排云亭
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 tvg-id="黄山平天矼" tvg-name="黄山平天矼" tvg-logo="http://logo.diyp.site:49377/logo.php?黄山平天矼" group-title="直播中国",黄山平天矼
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8
+#EXTINF:-1 tvg-id="黄山飞来石" tvg-name="黄山飞来石" tvg-logo="http://logo.diyp.site:49377/logo.php?黄山飞来石" group-title="直播中国",黄山飞来石
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 tvg-id="黄山光明顶" tvg-name="黄山光明顶" tvg-logo="http://logo.diyp.site:49377/logo.php?黄山光明顶" group-title="直播中国",黄山光明顶
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8
+#EXTINF:-1 tvg-id="黄山" tvg-name="黄山" tvg-logo="http://logo.diyp.site:49377/logo.php?黄山" group-title="直播中国",黄山
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 tvg-id="福建宁德太姥山景区" tvg-name="福建宁德太姥山景区" tvg-logo="http://logo.diyp.site:49377/logo.php?福建宁德太姥山景区" group-title="直播中国",福建宁德太姥山景区
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/tms01_1/index.m3u8
+#EXTINF:-1 tvg-id="陕西洋县国宝朱鹮03" tvg-name="陕西洋县国宝朱鹮03" tvg-logo="http://logo.diyp.site:49377/logo.php?陕西洋县国宝朱鹮03" group-title="直播中国",陕西洋县国宝朱鹮03
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
+#EXTINF:-1 tvg-id="陕西洋县国宝朱鹮04" tvg-name="陕西洋县国宝朱鹮04" tvg-logo="http://logo.diyp.site:49377/logo.php?陕西洋县国宝朱鹮04" group-title="直播中国",陕西洋县国宝朱鹮04
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zh04_1/index.m3u8
+#EXTINF:-1 tvg-id="安徽黟县西递半山亭" tvg-name="安徽黟县西递半山亭" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽黟县西递半山亭" group-title="直播中国",安徽黟县西递半山亭
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
+#EXTINF:-1 tvg-id="安徽黟县西递牌坊" tvg-name="安徽黟县西递牌坊" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽黟县西递牌坊" group-title="直播中国",安徽黟县西递牌坊
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 tvg-id="安徽黟县宏村月沼" tvg-name="安徽黟县宏村月沼" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽黟县宏村月沼" group-title="直播中国",安徽黟县宏村月沼
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
+#EXTINF:-1 tvg-id="安徽黟县芦村远眺" tvg-name="安徽黟县芦村远眺" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽黟县芦村远眺" group-title="直播中国",安徽黟县芦村远眺
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 tvg-id="深圳世界之窗文化主题公园" tvg-name="深圳世界之窗文化主题公园" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳世界之窗文化主题公园" group-title="直播中国",深圳世界之窗文化主题公园
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
+#EXTINF:-1 tvg-id="八达岭长城南七楼" tvg-name="八达岭长城南七楼" tvg-logo="http://logo.diyp.site:49377/logo.php?八达岭长城南七楼" group-title="直播中国",八达岭长城南七楼
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
+#EXTINF:-1 tvg-id="八达岭长城北十楼" tvg-name="八达岭长城北十楼" tvg-logo="http://logo.diyp.site:49377/logo.php?八达岭长城北十楼" group-title="直播中国",八达岭长城北十楼
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8
+#EXTINF:-1 tvg-id="中央电视塔东" tvg-name="中央电视塔东" tvg-logo="http://logo.diyp.site:49377/logo.php?中央电视塔东" group-title="直播中国",中央电视塔东
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 tvg-id="中央电视塔南" tvg-name="中央电视塔南" tvg-logo="http://logo.diyp.site:49377/logo.php?中央电视塔南" group-title="直播中国",中央电视塔南
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 tvg-id="中央电视塔北" tvg-name="中央电视塔北" tvg-logo="http://logo.diyp.site:49377/logo.php?中央电视塔北" group-title="直播中国",中央电视塔北
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
+#EXTINF:-1 tvg-id="恒山悬空寺全景" tvg-name="恒山悬空寺全景" tvg-logo="http://logo.diyp.site:49377/logo.php?恒山悬空寺全景" group-title="直播中国",恒山悬空寺全景
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 tvg-id="恒宗" tvg-name="恒宗" tvg-logo="http://logo.diyp.site:49377/logo.php?恒宗" group-title="直播中国",恒宗
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8
+#EXTINF:-1 tvg-id="黄果树银链坠潭瀑布" tvg-name="黄果树银链坠潭瀑布" tvg-logo="http://logo.diyp.site:49377/logo.php?黄果树银链坠潭瀑布" group-title="直播中国",黄果树银链坠潭瀑布
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hgsylztpb_1/index.m3u8
+#EXTINF:-1 tvg-id="黄果树六角亭瀑布" tvg-name="黄果树六角亭瀑布" tvg-logo="http://logo.diyp.site:49377/logo.php?黄果树六角亭瀑布" group-title="直播中国",黄果树六角亭瀑布
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 tvg-id="天涯鸟瞰" tvg-name="天涯鸟瞰" tvg-logo="http://logo.diyp.site:49377/logo.php?天涯鸟瞰" group-title="直播中国",天涯鸟瞰
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/tyhjtynl_1/index.m3u8
+#EXTINF:-1 tvg-id="天涯石" tvg-name="天涯石" tvg-logo="http://logo.diyp.site:49377/logo.php?天涯石" group-title="直播中国",天涯石
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 tvg-id="南天一柱" tvg-name="南天一柱" tvg-logo="http://logo.diyp.site:49377/logo.php?南天一柱" group-title="直播中国",南天一柱
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
+#EXTINF:-1 tvg-id="日月石" tvg-name="日月石" tvg-logo="http://logo.diyp.site:49377/logo.php?日月石" group-title="直播中国",日月石
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
+#EXTINF:-1 tvg-id="桂林象山公园" tvg-name="桂林象山公园" tvg-logo="http://logo.diyp.site:49377/logo.php?桂林象山公园" group-title="直播中国",桂林象山公园
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/glxs01_1/index.m3u8
+#EXTINF:-1 tvg-id="六盘山红军长征景区" tvg-name="六盘山红军长征景区" tvg-logo="http://logo.diyp.site:49377/logo.php?六盘山红军长征景区" group-title="直播中国",六盘山红军长征景区
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 tvg-id="华山" tvg-name="华山" tvg-logo="http://logo.diyp.site:49377/logo.php?华山" group-title="直播中国",华山
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hkhs01_1/index.m3u8
+#EXTINF:-1 tvg-id="贵州省兴义市万峰林" tvg-name="贵州省兴义市万峰林" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州省兴义市万峰林" group-title="直播中国",贵州省兴义市万峰林
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 tvg-id="贵州省兴义市马岭河峡谷" tvg-name="贵州省兴义市马岭河峡谷" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州省兴义市马岭河峡谷" group-title="直播中国",贵州省兴义市马岭河峡谷
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
+#EXTINF:-1 tvg-id="贵州省贞丰市双峰景区" tvg-name="贵州省贞丰市双峰景区" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州省贞丰市双峰景区" group-title="直播中国",贵州省贞丰市双峰景区
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/xysrf_1/index.m3u8
+#EXTINF:-1 tvg-id="云南大理崇圣寺三塔中景" tvg-name="云南大理崇圣寺三塔中景" tvg-logo="http://logo.diyp.site:49377/logo.php?云南大理崇圣寺三塔中景" group-title="直播中国",云南大理崇圣寺三塔中景
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 tvg-id="云南大理崇圣寺三塔湖面" tvg-name="云南大理崇圣寺三塔湖面" tvg-logo="http://logo.diyp.site:49377/logo.php?云南大理崇圣寺三塔湖面" group-title="直播中国",云南大理崇圣寺三塔湖面
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/dlst02_1/index.m3u8
+#EXTINF:-1 tvg-id="云南大理崇圣寺三塔远景" tvg-name="云南大理崇圣寺三塔远景" tvg-logo="http://logo.diyp.site:49377/logo.php?云南大理崇圣寺三塔远景" group-title="直播中国",云南大理崇圣寺三塔远景
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 tvg-id="广西桂林漓江景区" tvg-name="广西桂林漓江景区" tvg-logo="http://logo.diyp.site:49377/logo.php?广西桂林漓江景区" group-title="直播中国",广西桂林漓江景区
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 tvg-id="青岛崂山双福" tvg-name="青岛崂山双福" tvg-logo="http://logo.diyp.site:49377/logo.php?青岛崂山双福" group-title="直播中国",青岛崂山双福
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1 tvg-id="青岛崂山太清" tvg-name="青岛崂山太清" tvg-logo="http://logo.diyp.site:49377/logo.php?青岛崂山太清" group-title="直播中国",青岛崂山太清
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
+#EXTINF:-1 tvg-id="青岛崂山灵旗峰" tvg-name="青岛崂山灵旗峰" tvg-logo="http://logo.diyp.site:49377/logo.php?青岛崂山灵旗峰" group-title="直播中国",青岛崂山灵旗峰
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/qdls01_1/index.m3u8
+#EXTINF:-1 tvg-id="青岛崂山八水河" tvg-name="青岛崂山八水河" tvg-logo="http://logo.diyp.site:49377/logo.php?青岛崂山八水河" group-title="直播中国",青岛崂山八水河
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 tvg-id="三亚南山文化旅游区海上观音" tvg-name="三亚南山文化旅游区海上观音" tvg-logo="http://logo.diyp.site:49377/logo.php?三亚南山文化旅游区海上观音" group-title="直播中国",三亚南山文化旅游区海上观音
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
+#EXTINF:-1 tvg-id="仙都风景区" tvg-name="仙都风景区" tvg-logo="http://logo.diyp.site:49377/logo.php?仙都风景区" group-title="直播中国",仙都风景区
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
+#EXTINF:-1 tvg-id="宁夏黄河大峡谷" tvg-name="宁夏黄河大峡谷" tvg-logo="http://logo.diyp.site:49377/logo.php?宁夏黄河大峡谷" group-title="直播中国",宁夏黄河大峡谷
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hhdxg01_1/index.m3u8
+#EXTINF:-1 tvg-id="张掖七彩丹霞" tvg-name="张掖七彩丹霞" tvg-logo="http://logo.diyp.site:49377/logo.php?张掖七彩丹霞" group-title="直播中国",张掖七彩丹霞
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 tvg-id="嵩山少林寺广场" tvg-name="嵩山少林寺广场" tvg-logo="http://logo.diyp.site:49377/logo.php?嵩山少林寺广场" group-title="直播中国",嵩山少林寺广场
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8
+#EXTINF:-1 tvg-id="婺源01" tvg-name="婺源01" tvg-logo="http://logo.diyp.site:49377/logo.php?婺源01" group-title="直播中国",婺源01
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
+#EXTINF:-1 tvg-id="神农架金丝猴01" tvg-name="神农架金丝猴01" tvg-logo="http://logo.diyp.site:49377/logo.php?神农架金丝猴01" group-title="直播中国",神农架金丝猴01
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
+#EXTINF:-1 tvg-id="都江堰鱼嘴" tvg-name="都江堰鱼嘴" tvg-logo="http://logo.diyp.site:49377/logo.php?都江堰鱼嘴" group-title="直播中国",都江堰鱼嘴
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 tvg-id="丹霞山丹梯铁锁" tvg-name="丹霞山丹梯铁锁" tvg-logo="http://logo.diyp.site:49377/logo.php?丹霞山丹梯铁锁" group-title="直播中国",丹霞山丹梯铁锁
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8
+#EXTINF:-1 tvg-id="丹霞山韶音亭" tvg-name="丹霞山韶音亭" tvg-logo="http://logo.diyp.site:49377/logo.php?丹霞山韶音亭" group-title="直播中国",丹霞山韶音亭
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/dxssyt_1/index.m3u8
+#EXTINF:-1 tvg-id="云南红河哈尼梯田多依树景点" tvg-name="云南红河哈尼梯田多依树景点" tvg-logo="http://logo.diyp.site:49377/logo.php?云南红河哈尼梯田多依树景点" group-title="直播中国",云南红河哈尼梯田多依树景点
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
+#EXTINF:-1 tvg-id="云南红河哈尼梯田普高老寨" tvg-name="云南红河哈尼梯田普高老寨" tvg-logo="http://logo.diyp.site:49377/logo.php?云南红河哈尼梯田普高老寨" group-title="直播中国",云南红河哈尼梯田普高老寨
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8
+#EXTINF:-1 tvg-id="云南红河哈尼梯田老虎嘴" tvg-name="云南红河哈尼梯田老虎嘴" tvg-logo="http://logo.diyp.site:49377/logo.php?云南红河哈尼梯田老虎嘴" group-title="直播中国",云南红河哈尼梯田老虎嘴
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
+#EXTINF:-1 tvg-id="江西龙虎山中间水泡" tvg-name="江西龙虎山中间水泡" tvg-logo="http://logo.diyp.site:49377/logo.php?江西龙虎山中间水泡" group-title="直播中国",江西龙虎山中间水泡
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
+#EXTINF:-1 tvg-id="江西龙虎山山涧栈道" tvg-name="江西龙虎山山涧栈道" tvg-logo="http://logo.diyp.site:49377/logo.php?江西龙虎山山涧栈道" group-title="直播中国",江西龙虎山山涧栈道
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
+#EXTINF:-1 tvg-id="乐山大佛全景" tvg-name="乐山大佛全景" tvg-logo="http://logo.diyp.site:49377/logo.php?乐山大佛全景" group-title="直播中国",乐山大佛全景
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 tvg-id="直播中国精编直播" tvg-name="直播中国精编直播" tvg-logo="http://logo.diyp.site:49377/logo.php?直播中国精编直播" group-title="直播中国",直播中国精编直播
+
+
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+#EXTINF:-1 tvg-id="楚天音乐广播FM105.8(Opt-1)[0*0]" tvg-name="楚天音乐广播FM105.8(Opt-1)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?楚天音乐广播FM105.8(Opt-1)[0*0]" group-title="收音广播",楚天音乐广播FM105.8(Opt-1)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1289.m3u8
+#EXTINF:-1 tvg-id="楚天交通广播FM92.7[0*0]" tvg-name="楚天交通广播FM92.7[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?楚天交通广播FM92.7[0*0]" group-title="收音广播",楚天交通广播FM92.7[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1291.m3u8
+#EXTINF:-1 tvg-id="荆门交通音乐频率FM99.3(Opt-2)[0*0]" tvg-name="荆门交通音乐频率FM99.3(Opt-2)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?荆门交通音乐频率FM99.3(Opt-2)[0*0]" group-title="收音广播",荆门交通音乐频率FM99.3(Opt-2)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/60808.m3u8
+#EXTINF:-1 tvg-id="襄阳交通广播FM89.0(Opt-1)[0*0]" tvg-name="襄阳交通广播FM89.0(Opt-1)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?襄阳交通广播FM89.0(Opt-1)[0*0]" group-title="收音广播",襄阳交通广播FM89.0(Opt-1)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1307.m3u8
+#EXTINF:-1 tvg-id="襄阳交通广播FM89.0(Opt-2)[0*0]" tvg-name="襄阳交通广播FM89.0(Opt-2)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?襄阳交通广播FM89.0(Opt-2)[0*0]" group-title="收音广播",襄阳交通广播FM89.0(Opt-2)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1308.m3u8
+#EXTINF:-1 tvg-id="襄阳音乐广播[0*0]" tvg-name="襄阳音乐广播[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?襄阳音乐广播[0*0]" group-title="收音广播",襄阳音乐广播[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/5057.m3u8
+#EXTINF:-1 tvg-id="北京房山经典音乐FM96.90*0][0*0]" tvg-name="北京房山经典音乐FM96.90*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?北京房山经典音乐FM96.90*0][0*0]" group-title="收音广播",北京房山经典音乐FM96.90*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://live.xmcdn.com/live/963/64.m3u8
+#EXTINF:-1 tvg-id="北京房山经典音乐FM96.90*0][0*0]" tvg-name="北京房山经典音乐FM96.90*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?北京房山经典音乐FM96.90*0][0*0]" group-title="收音广播",北京房山经典音乐FM96.90*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/68746.m3u8
+#EXTINF:-1 tvg-id="北京房山经典音乐FM96.90*0][0*0]" tvg-name="北京房山经典音乐FM96.90*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?北京房山经典音乐FM96.90*0][0*0]" group-title="收音广播",北京房山经典音乐FM96.90*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/68746.m3u8
+#EXTINF:-1 tvg-id="重庆新闻广播FM96.80*0][0*0]" tvg-name="重庆新闻广播FM96.80*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆新闻广播FM96.80*0][0*0]" group-title="收音广播",重庆新闻广播FM96.80*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://live.xmcdn.com/live/128/64.m3u8
+#EXTINF:-1 tvg-id="重庆新闻广播FM96.80*0][0*0]" tvg-name="重庆新闻广播FM96.80*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆新闻广播FM96.80*0][0*0]" group-title="收音广播",重庆新闻广播FM96.80*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1498.m3u8
+#EXTINF:-1 tvg-id="重庆经济广播FM101.50*0][0*0]" tvg-name="重庆经济广播FM101.50*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆经济广播FM101.50*0][0*0]" group-title="收音广播",重庆经济广播FM101.50*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1499.m3u8
+#EXTINF:-1 tvg-id="重庆经济广播FM101.50*0][0*0]" tvg-name="重庆经济广播FM101.50*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆经济广播FM101.50*0][0*0]" group-title="收音广播",重庆经济广播FM101.50*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1499.m3u8
+#EXTINF:-1 tvg-id="重庆交通广播FM95.50*0][0*0]" tvg-name="重庆交通广播FM95.50*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆交通广播FM95.50*0][0*0]" group-title="收音广播",重庆交通广播FM95.50*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://live.xmcdn.com/live/130/64.m3u8
+#EXTINF:-1 tvg-id="重庆交通广播FM95.50*0][0*0]" tvg-name="重庆交通广播FM95.50*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆交通广播FM95.50*0][0*0]" group-title="收音广播",重庆交通广播FM95.50*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1500.m3u8
+#EXTINF:-1 tvg-id="重庆交通广播FM95.50*0][0*0]" tvg-name="重庆交通广播FM95.50*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆交通广播FM95.50*0][0*0]" group-title="收音广播",重庆交通广播FM95.50*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1500.m3u8
+#EXTINF:-1 tvg-id="重庆音乐广播FM88.10*0][0*0]" tvg-name="重庆音乐广播FM88.10*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆音乐广播FM88.10*0][0*0]" group-title="收音广播",重庆音乐广播FM88.10*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://live.xmcdn.com/live/131/64.m3u8
+#EXTINF:-1 tvg-id="重庆音乐广播FM88.10*0][0*0]" tvg-name="重庆音乐广播FM88.10*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆音乐广播FM88.10*0][0*0]" group-title="收音广播",重庆音乐广播FM88.10*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/647.m3u8
+#EXTINF:-1 tvg-id="重庆音乐广播FM88.10*0][0*0]" tvg-name="重庆音乐广播FM88.10*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆音乐广播FM88.10*0][0*0]" group-title="收音广播",重庆音乐广播FM88.10*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/647.m3u8
+#EXTINF:-1 tvg-id="重庆都市广播FM93.80*0][0*0]" tvg-name="重庆都市广播FM93.80*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆都市广播FM93.80*0][0*0]" group-title="收音广播",重庆都市广播FM93.80*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://live.xmcdn.com/live/132/64.m3u8
+#EXTINF:-1 tvg-id="重庆都市广播FM93.80*0][0*0]" tvg-name="重庆都市广播FM93.80*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆都市广播FM93.80*0][0*0]" group-title="收音广播",重庆都市广播FM93.80*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1502.m3u8
+#EXTINF:-1 tvg-id="重庆都市广播FM93.80*0][0*0]" tvg-name="重庆都市广播FM93.80*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆都市广播FM93.80*0][0*0]" group-title="收音广播",重庆都市广播FM93.80*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1502.m3u8
+#EXTINF:-1 tvg-id="巴渝之声FM104.50*0][0*0]" tvg-name="巴渝之声FM104.50*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?巴渝之声FM104.50*0][0*0]" group-title="收音广播",巴渝之声FM104.50*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/3545693.m3u8
+#EXTINF:-1 tvg-id="万州交通广播0*0][0*0]" tvg-name="万州交通广播0*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?万州交通广播0*0][0*0]" group-title="收音广播",万州交通广播0*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://live.xmcdn.com/live/1679/64.m3u8
+#EXTINF:-1 tvg-id="厦门音乐广播0*0][0*0]" tvg-name="厦门音乐广播0*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?厦门音乐广播0*0][0*0]" group-title="收音广播",厦门音乐广播0*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1739.m3u8
+#EXTINF:-1 tvg-id="厦门音乐广播0*0][0*0]" tvg-name="厦门音乐广播0*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?厦门音乐广播0*0][0*0]" group-title="收音广播",厦门音乐广播0*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1739.m3u8
+#EXTINF:-1 tvg-id="厦门新闻广播0*0][0*0]" tvg-name="厦门新闻广播0*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?厦门新闻广播0*0][0*0]" group-title="收音广播",厦门新闻广播0*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1737.m3u8
+#EXTINF:-1 tvg-id="厦门新闻广播0*0][0*0]" tvg-name="厦门新闻广播0*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?厦门新闻广播0*0][0*0]" group-title="收音广播",厦门新闻广播0*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1737.m3u8
+#EXTINF:-1 tvg-id="广州新闻电台FM96.20*0][0*0]" tvg-name="广州新闻电台FM96.20*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?广州新闻电台FM96.20*0][0*0]" group-title="收音广播",广州新闻电台FM96.20*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://live.xmcdn.com/live/256/64.m3u8
+#EXTINF:-1 tvg-id="广州新闻电台FM96.20*0][0*0]" tvg-name="广州新闻电台FM96.20*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?广州新闻电台FM96.20*0][0*0]" group-title="收音广播",广州新闻电台FM96.20*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4848.m3u8
+#EXTINF:-1 tvg-id="广州新闻电台FM96.20*0][0*0]" tvg-name="广州新闻电台FM96.20*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?广州新闻电台FM96.20*0][0*0]" group-title="收音广播",广州新闻电台FM96.20*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4848.m3u8
+#EXTINF:-1 tvg-id="广州汽车音乐电台FM102.70*0][0*0]" tvg-name="广州汽车音乐电台FM102.70*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?广州汽车音乐电台FM102.70*0][0*0]" group-title="收音广播",广州汽车音乐电台FM102.70*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://live.xmcdn.com/live/257/64.m3u8
+#EXTINF:-1 tvg-id="广州汽车音乐电台FM102.70*0][0*0]" tvg-name="广州汽车音乐电台FM102.70*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?广州汽车音乐电台FM102.70*0][0*0]" group-title="收音广播",广州汽车音乐电台FM102.70*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/52710.m3u8
+#EXTINF:-1 tvg-id="广州汽车音乐电台FM102.70*0][0*0]" tvg-name="广州汽车音乐电台FM102.70*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?广州汽车音乐电台FM102.70*0][0*0]" group-title="收音广播",广州汽车音乐电台FM102.70*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/52710.m3u8
+#EXTINF:-1 tvg-id="广州交通电台FM106.10*0][0*0]" tvg-name="广州交通电台FM106.10*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?广州交通电台FM106.10*0][0*0]" group-title="收音广播",广州交通电台FM106.10*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4955.m3u8
+#EXTINF:-1 tvg-id="广州MYFM88.0(都市生活)0*0][0*0]" tvg-name="广州MYFM88.0(都市生活)0*0][0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?广州MYFM88.0(都市生活)0*0][0*0]" group-title="收音广播",广州MYFM88.0(都市生活)0*0][0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/52712.m3u8
+#EXTINF:-1 tvg-id="东广新闻台FM90.9[0*0]" tvg-name="东广新闻台FM90.9[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?东广新闻台FM90.9[0*0]" group-title="收音广播",东广新闻台FM90.9[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/275.m3u8
+#EXTINF:-1 tvg-id="东莞FM104音乐广播[0*0]" tvg-name="东莞FM104音乐广播[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?东莞FM104音乐广播[0*0]" group-title="收音广播",东莞FM104音乐广播[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/93619.m3u8
+#EXTINF:-1 tvg-id="东莞畅享1075交通广播[0*0]" tvg-name="东莞畅享1075交通广播[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?东莞畅享1075交通广播[0*0]" group-title="收音广播",东莞畅享1075交通广播[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1288.m3u8
+#EXTINF:-1 tvg-id="九江交通广播FM88.4FM88.9[0*0]" tvg-name="九江交通广播FM88.4FM88.9[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?九江交通广播FM88.4FM88.9[0*0]" group-title="收音广播",九江交通广播FM88.4FM88.9[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/2785094.m3u8
+#EXTINF:-1 tvg-id="云南交通广播FM91.8[0*0]" tvg-name="云南交通广播FM91.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?云南交通广播FM91.8[0*0]" group-title="收音广播",云南交通广播FM91.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1928.m3u8
+#EXTINF:-1 tvg-id="云南教育广播FM100[0*0]" tvg-name="云南教育广播FM100[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?云南教育广播FM100[0*0]" group-title="收音广播",云南教育广播FM100[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1930.m3u8
+#EXTINF:-1 tvg-id="云南新闻广播FM105.8[0*0]" tvg-name="云南新闻广播FM105.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?云南新闻广播FM105.8[0*0]" group-title="收音广播",云南新闻广播FM105.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1926.m3u8
+#EXTINF:-1 tvg-id="云南民族广播SW7210[0*0]" tvg-name="云南民族广播SW7210[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?云南民族广播SW7210[0*0]" group-title="收音广播",云南民族广播SW7210[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1933.m3u8
+#EXTINF:-1 tvg-id="云南经济广播私家车FM88.7[0*0]" tvg-name="云南经济广播私家车FM88.7[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?云南经济广播私家车FM88.7[0*0]" group-title="收音广播",云南经济广播私家车FM88.7[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1927.m3u8
+#EXTINF:-1 tvg-id="云南音乐广播FM97[0*0]" tvg-name="云南音乐广播FM97[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?云南音乐广播FM97[0*0]" group-title="收音广播",云南音乐广播FM97[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1929.m3u8
+#EXTINF:-1 tvg-id="保定交通广播FM104.8[0*0]" tvg-name="保定交通广播FM104.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?保定交通广播FM104.8[0*0]" group-title="收音广播",保定交通广播FM104.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/28140.m3u8
+#EXTINF:-1 tvg-id="保定城市服务广播乐动1016[0*0]" tvg-name="保定城市服务广播乐动1016[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?保定城市服务广播乐动1016[0*0]" group-title="收音广播",保定城市服务广播乐动1016[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/62628.m3u8
+#EXTINF:-1 tvg-id="保定新闻广播FM93.7[0*0]" tvg-name="保定新闻广播FM93.7[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?保定新闻广播FM93.7[0*0]" group-title="收音广播",保定新闻广播FM93.7[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/3701149.m3u8
+#EXTINF:-1 tvg-id="保定经典964汽车音乐广播[0*0]" tvg-name="保定经典964汽车音乐广播[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?保定经典964汽车音乐广播[0*0]" group-title="收音广播",保定经典964汽车音乐广播[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/2227017.m3u8
+#EXTINF:-1 tvg-id="南宁交通音乐广播FM107.4[0*0]" tvg-name="南宁交通音乐广播FM107.4[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?南宁交通音乐广播FM107.4[0*0]" group-title="收音广播",南宁交通音乐广播FM107.4[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/80793.m3u8?aac
+#EXTINF:-1 tvg-id="呼和浩特城市生活广播FM90.1[0*0]" tvg-name="呼和浩特城市生活广播FM90.1[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?呼和浩特城市生活广播FM90.1[0*0]" group-title="收音广播",呼和浩特城市生活广播FM90.1[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/2218717.m3u8
+#EXTINF:-1 tvg-id="呼和浩特文艺广播FM99.8[0*0]" tvg-name="呼和浩特文艺广播FM99.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?呼和浩特文艺广播FM99.8[0*0]" group-title="收音广播",呼和浩特文艺广播FM99.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/3099076.m3u8
+#EXTINF:-1 tvg-id="呼和浩特新闻综合广播FM92.9[0*0]" tvg-name="呼和浩特新闻综合广播FM92.9[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?呼和浩特新闻综合广播FM92.9[0*0]" group-title="收音广播",呼和浩特新闻综合广播FM92.9[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/2218711.m3u8
+#EXTINF:-1 tvg-id="咸阳城市之声FM100.7[0*0]" tvg-name="咸阳城市之声FM100.7[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?咸阳城市之声FM100.7[0*0]" group-title="收音广播",咸阳城市之声FM100.7[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/3559664.m3u8
+#EXTINF:-1 tvg-id="四川文艺广播快乐900FM90.0[0*0]" tvg-name="四川文艺广播快乐900FM90.0[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?四川文艺广播快乐900FM90.0[0*0]" group-title="收音广播",四川文艺广播快乐900FM90.0[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4887.m3u8
+#EXTINF:-1 tvg-id="四川新闻综合广播FM98.1[0*0]" tvg-name="四川新闻综合广播FM98.1[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?四川新闻综合广播FM98.1[0*0]" group-title="收音广播",四川新闻综合广播FM98.1[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4906.m3u8
+#EXTINF:-1 tvg-id="四川民族广播AM954[0*0]" tvg-name="四川民族广播AM954[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?四川民族广播AM954[0*0]" group-title="收音广播",四川民族广播AM954[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1115.m3u8
+#EXTINF:-1 tvg-id="四川私家车广播FM92.5[0*0]" tvg-name="四川私家车广播FM92.5[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?四川私家车广播FM92.5[0*0]" group-title="收音广播",四川私家车广播FM92.5[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4939.m3u8
+#EXTINF:-1 tvg-id="四川财富广播FM94.0[0*0]" tvg-name="四川财富广播FM94.0[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?四川财富广播FM94.0[0*0]" group-title="收音广播",四川财富广播FM94.0[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4927.m3u8
+#EXTINF:-1 tvg-id="太原交通广播FM107[0*0]" tvg-name="太原交通广播FM107[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?太原交通广播FM107[0*0]" group-title="收音广播",太原交通广播FM107[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4900.m3u8
+#EXTINF:-1 tvg-id="太原新闻广播FM91.2[0*0]" tvg-name="太原新闻广播FM91.2[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?太原新闻广播FM91.2[0*0]" group-title="收音广播",太原新闻广播FM91.2[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/23873.m3u8
+#EXTINF:-1 tvg-id="太原私家车RadioFM104.4[0*0]" tvg-name="太原私家车RadioFM104.4[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?太原私家车RadioFM104.4[0*0]" group-title="收音广播",太原私家车RadioFM104.4[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4018.m3u8
+#EXTINF:-1 tvg-id="太原音乐广播FM102.6[0*0]" tvg-name="太原音乐广播FM102.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?太原音乐广播FM102.6[0*0]" group-title="收音广播",太原音乐广播FM102.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1185.m3u8
+#EXTINF:-1 tvg-id="宁夏交通广播FM98.4[0*0]" tvg-name="宁夏交通广播FM98.4[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?宁夏交通广播FM98.4[0*0]" group-title="收音广播",宁夏交通广播FM98.4[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1840.m3u8
+#EXTINF:-1 tvg-id="宁夏都市广播FM103.7[0*0]" tvg-name="宁夏都市广播FM103.7[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?宁夏都市广播FM103.7[0*0]" group-title="收音广播",宁夏都市广播FM103.7[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1842.m3u8
+#EXTINF:-1 tvg-id="山东体育广播FM102.1[0*0]" tvg-name="山东体育广播FM102.1[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?山东体育广播FM102.1[0*0]" group-title="收音广播",山东体育广播FM102.1[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/60266.m3u8
+#EXTINF:-1 tvg-id="山东女主播电台FM97.5[0*0]" tvg-name="山东女主播电台FM97.5[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?山东女主播电台FM97.5[0*0]" group-title="收音广播",山东女主播电台FM97.5[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/60258.m3u8
+#EXTINF:-1 tvg-id="山东新闻广播FM95[0*0]" tvg-name="山东新闻广播FM95[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?山东新闻广播FM95[0*0]" group-title="收音广播",山东新闻广播FM95[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/60180.m3u8
+#EXTINF:-1 tvg-id="山东生活广播MyFMFM105[0*0]" tvg-name="山东生活广播MyFMFM105[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?山东生活广播MyFMFM105[0*0]" group-title="收音广播",山东生活广播MyFMFM105[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/60260.m3u8
+#EXTINF:-1 tvg-id="山东音乐广播FM99.1[0*0]" tvg-name="山东音乐广播FM99.1[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?山东音乐广播FM99.1[0*0]" group-title="收音广播",山东音乐广播FM99.1[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1665.m3u8
+#EXTINF:-1 tvg-id="岳阳交通广播FM106.1[0*0]" tvg-name="岳阳交通广播FM106.1[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?岳阳交通广播FM106.1[0*0]" group-title="收音广播",岳阳交通广播FM106.1[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/88931.m3u8
+#EXTINF:-1 tvg-id="岳阳新闻综合广播[0*0]" tvg-name="岳阳新闻综合广播[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?岳阳新闻综合广播[0*0]" group-title="收音广播",岳阳新闻综合广播[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/88933.m3u8
+#EXTINF:-1 tvg-id="常州交通广播FM90[0*0]" tvg-name="常州交通广播FM90[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?常州交通广播FM90[0*0]" group-title="收音广播",常州交通广播FM90[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/2796.m3u8
+#EXTINF:-1 tvg-id="广西女主播电台FM97.0[0*0]" tvg-name="广西女主播电台FM97.0[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?广西女主播电台FM97.0[0*0]" group-title="收音广播",广西女主播电台FM97.0[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1754.m3u8
+#EXTINF:-1 tvg-id="广西新闻910FM91.0[0*0]" tvg-name="广西新闻910FM91.0[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?广西新闻910FM91.0[0*0]" group-title="收音广播",广西新闻910FM91.0[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1753.m3u8
+#EXTINF:-1 tvg-id="广西私家车930FM93.0[0*0]" tvg-name="广西私家车930FM93.0[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?广西私家车930FM93.0[0*0]" group-title="收音广播",广西私家车930FM93.0[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1756.m3u8
+#EXTINF:-1 tvg-id="广西音乐台FM95.0[0*0]" tvg-name="广西音乐台FM95.0[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?广西音乐台FM95.0[0*0]" group-title="收音广播",广西音乐台FM95.0[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4875.m3u8
+#EXTINF:-1 tvg-id="新疆交通广播FM94.9(Opt-2)[0*0]" tvg-name="新疆交通广播FM94.9(Opt-2)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆交通广播FM94.9(Opt-2)[0*0]" group-title="收音广播",新疆交通广播FM94.9(Opt-2)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1910.m3u8
+#EXTINF:-1 tvg-id="新疆新闻广播FM96.1(Opt-1)[0*0]" tvg-name="新疆新闻广播FM96.1(Opt-1)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆新闻广播FM96.1(Opt-1)[0*0]" group-title="收音广播",新疆新闻广播FM96.1(Opt-1)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1902.m3u8
+#EXTINF:-1 tvg-id="新疆民生广播FM92.4(Opt-2)[0*0]" tvg-name="新疆民生广播FM92.4(Opt-2)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆民生广播FM92.4(Opt-2)[0*0]" group-title="收音广播",新疆民生广播FM92.4(Opt-2)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/76186.m3u8
+#EXTINF:-1 tvg-id="新疆维吾尔语交通文艺广播(Opt-2)[0*0]" tvg-name="新疆维吾尔语交通文艺广播(Opt-2)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆维吾尔语交通文艺广播(Opt-2)[0*0]" group-title="收音广播",新疆维吾尔语交通文艺广播(Opt-2)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/78923.m3u8
+#EXTINF:-1 tvg-id="新疆蒙古语广播(Opt-1)[0*0]" tvg-name="新疆蒙古语广播(Opt-1)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆蒙古语广播(Opt-1)[0*0]" group-title="收音广播",新疆蒙古语广播(Opt-1)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1903.m3u8
+#EXTINF:-1 tvg-id="无锡新闻广播FM93.7[0*0]" tvg-name="无锡新闻广播FM93.7[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?无锡新闻广播FM93.7[0*0]" group-title="收音广播",无锡新闻广播FM93.7[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/2777.m3u8
+#EXTINF:-1 tvg-id="昆明汽车广播FM95.4[0*0]" tvg-name="昆明汽车广播FM95.4[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?昆明汽车广播FM95.4[0*0]" group-title="收音广播",昆明汽车广播FM95.4[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1936.m3u8
+#EXTINF:-1 tvg-id="昆明都市调频FM102.8[0*0]" tvg-name="昆明都市调频FM102.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?昆明都市调频FM102.8[0*0]" group-title="收音广播",昆明都市调频FM102.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1935.m3u8
+#EXTINF:-1 tvg-id="昆明阳光广播[0*0]" tvg-name="昆明阳光广播[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?昆明阳光广播[0*0]" group-title="收音广播",昆明阳光广播[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1934.m3u8
+#EXTINF:-1 tvg-id="梅州交通广播FM105.8[0*0]" tvg-name="梅州交通广播FM105.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?梅州交通广播FM105.8[0*0]" group-title="收音广播",梅州交通广播FM105.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/24195.m3u8
+#EXTINF:-1 tvg-id="梅州新闻广播FM94.8[0*0]" tvg-name="梅州新闻广播FM94.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?梅州新闻广播FM94.8[0*0]" group-title="收音广播",梅州新闻广播FM94.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/24173.m3u8
+#EXTINF:-1 tvg-id="江苏新闻广播FM93.7[0*0]" tvg-name="江苏新闻广播FM93.7[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?江苏新闻广播FM93.7[0*0]" group-title="收音广播",江苏新闻广播FM93.7[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4944.m3u8
+#EXTINF:-1 tvg-id="沈阳新闻广播FM104.5[0*0]" tvg-name="沈阳新闻广播FM104.5[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?沈阳新闻广播FM104.5[0*0]" group-title="收音广播",沈阳新闻广播FM104.5[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/23891.m3u8
+#EXTINF:-1 tvg-id="河北MyFM102.9[0*0]" tvg-name="河北MyFM102.9[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?河北MyFM102.9[0*0]" group-title="收音广播",河北MyFM102.9[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/2508757.m3u8
+#EXTINF:-1 tvg-id="河北交通广播FM99.2[0*0]" tvg-name="河北交通广播FM99.2[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?河北交通广播FM99.2[0*0]" group-title="收音广播",河北交通广播FM99.2[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1646.m3u8
+#EXTINF:-1 tvg-id="河北农民广播AM558[0*0]" tvg-name="河北农民广播AM558[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?河北农民广播AM558[0*0]" group-title="收音广播",河北农民广播AM558[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1650.m3u8
+#EXTINF:-1 tvg-id="河北故事广播FM107.9[0*0]" tvg-name="河北故事广播FM107.9[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?河北故事广播FM107.9[0*0]" group-title="收音广播",河北故事广播FM107.9[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1645.m3u8
+#EXTINF:-1 tvg-id="河北新闻广播FM104.3[0*0]" tvg-name="河北新闻广播FM104.3[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?河北新闻广播FM104.3[0*0]" group-title="收音广播",河北新闻广播FM104.3[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1644.m3u8
+#EXTINF:-1 tvg-id="河北旅游广播AM603[0*0]" tvg-name="河北旅游广播AM603[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?河北旅游广播AM603[0*0]" group-title="收音广播",河北旅游广播AM603[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1651.m3u8
+#EXTINF:-1 tvg-id="河北生活广播FM88.8[0*0]" tvg-name="河北生活广播FM88.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?河北生活广播FM88.8[0*0]" group-title="收音广播",河北生活广播FM88.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4867.m3u8
+#EXTINF:-1 tvg-id="河北音乐广播FM102.4[0*0]" tvg-name="河北音乐广播FM102.4[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?河北音乐广播FM102.4[0*0]" group-title="收音广播",河北音乐广播FM102.4[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1649.m3u8
+#EXTINF:-1 tvg-id="河南乐龄(信息广播)FM105.6[0*0]" tvg-name="河南乐龄(信息广播)FM105.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?河南乐龄(信息广播)FM105.6[0*0]" group-title="收音广播",河南乐龄(信息广播)FM105.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/59896.m3u8
+#EXTINF:-1 tvg-id="河南交通广播FM104.1[0*0]" tvg-name="河南交通广播FM104.1[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?河南交通广播FM104.1[0*0]" group-title="收音广播",河南交通广播FM104.1[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1209.m3u8
+#EXTINF:-1 tvg-id="河南娱乐广播FM97.6[0*0]" tvg-name="河南娱乐广播FM97.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?河南娱乐广播FM97.6[0*0]" group-title="收音广播",河南娱乐广播FM97.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1719795.m3u8
+#EXTINF:-1 tvg-id="河南音乐广播魅力881FM88.1[0*0]" tvg-name="河南音乐广播魅力881FM88.1[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?河南音乐广播魅力881FM88.1[0*0]" group-title="收音广播",河南音乐广播魅力881FM88.1[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1208.m3u8
+#EXTINF:-1 tvg-id="河南驾车1066FM106.6[0*0]" tvg-name="河南驾车1066FM106.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?河南驾车1066FM106.6[0*0]" group-title="收音广播",河南驾车1066FM106.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1207.m3u8
+#EXTINF:-1 tvg-id="济南故事广播FM104.3[0*0]" tvg-name="济南故事广播FM104.3[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?济南故事广播FM104.3[0*0]" group-title="收音广播",济南故事广播FM104.3[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1672.m3u8
+#EXTINF:-1 tvg-id="济南私家车广播FM93.6[0*0]" tvg-name="济南私家车广播FM93.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?济南私家车广播FM93.6[0*0]" group-title="收音广播",济南私家车广播FM93.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1670.m3u8
+#EXTINF:-1 tvg-id="济南经济广播FM90.9[0*0]" tvg-name="济南经济广播FM90.9[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?济南经济广播FM90.9[0*0]" group-title="收音广播",济南经济广播FM90.9[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1668.m3u8
+#EXTINF:-1 tvg-id="济南音乐广播(MUSIC887)[0*0]" tvg-name="济南音乐广播(MUSIC887)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?济南音乐广播(MUSIC887)[0*0]" group-title="收音广播",济南音乐广播(MUSIC887)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1671.m3u8
+#EXTINF:-1 tvg-id="浙江之声FM88(Opt-1)[0*0]" tvg-name="浙江之声FM88(Opt-1)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江之声FM88(Opt-1)[0*0]" group-title="收音广播",浙江之声FM88(Opt-1)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4518.m3u8
+#EXTINF:-1 tvg-id="浙江交通之声FM93(Opt-1)[0*0]" tvg-name="浙江交通之声FM93(Opt-1)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江交通之声FM93(Opt-1)[0*0]" group-title="收音广播",浙江交通之声FM93(Opt-1)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4522.m3u8
+#EXTINF:-1 tvg-id="浙江动听(音乐调频)FM96.8(Opt-2)[0*0]" tvg-name="浙江动听(音乐调频)FM96.8(Opt-2)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江动听(音乐调频)FM96.8(Opt-2)[0*0]" group-title="收音广播",浙江动听(音乐调频)FM96.8(Opt-2)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4866.m3u8
+#EXTINF:-1 tvg-id="浙江女主播电台FM104.5(Opt-2)[0*0]" tvg-name="浙江女主播电台FM104.5(Opt-2)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江女主播电台FM104.5(Opt-2)[0*0]" group-title="收音广播",浙江女主播电台FM104.5(Opt-2)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4524.m3u8
+#EXTINF:-1 tvg-id="浙江财富广播FM95(Opt-1)[0*0]" tvg-name="浙江财富广播FM95(Opt-1)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江财富广播FM95(Opt-1)[0*0]" group-title="收音广播",浙江财富广播FM95(Opt-1)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4519.m3u8
+#EXTINF:-1 tvg-id="海南交通广播FM100[0*0]" tvg-name="海南交通广播FM100[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?海南交通广播FM100[0*0]" group-title="收音广播",海南交通广播FM100[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4911.m3u8
+#EXTINF:-1 tvg-id="海南国际旅游之声FM103.8[0*0]" tvg-name="海南国际旅游之声FM103.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?海南国际旅游之声FM103.8[0*0]" group-title="收音广播",海南国际旅游之声FM103.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1862.m3u8
+#EXTINF:-1 tvg-id="海南新闻广播FM88.6[0*0]" tvg-name="海南新闻广播FM88.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?海南新闻广播FM88.6[0*0]" group-title="收音广播",海南新闻广播FM88.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1861.m3u8
+#EXTINF:-1 tvg-id="海南民生广播FM101[0*0]" tvg-name="海南民生广播FM101[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?海南民生广播FM101[0*0]" group-title="收音广播",海南民生广播FM101[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1511803.m3u8
+#EXTINF:-1 tvg-id="深圳私家车广播FM94.2[0*0]" tvg-name="深圳私家车广播FM94.2[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳私家车广播FM94.2[0*0]" group-title="收音广播",深圳私家车广播FM94.2[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1273.m3u8
+#EXTINF:-1 tvg-id="深圳飞扬音乐971[0*0]" tvg-name="深圳飞扬音乐971[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳飞扬音乐971[0*0]" group-title="收音广播",深圳飞扬音乐971[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1271.m3u8
+#EXTINF:-1 tvg-id="温州交通广播FM103.9[0*0]" tvg-name="温州交通广播FM103.9[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?温州交通广播FM103.9[0*0]" group-title="收音广播",温州交通广播FM103.9[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/23863.m3u8
+#EXTINF:-1 tvg-id="温州新闻广播FM94.9[0*0]" tvg-name="温州新闻广播FM94.9[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?温州新闻广播FM94.9[0*0]" group-title="收音广播",温州新闻广播FM94.9[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/23861.m3u8
+#EXTINF:-1 tvg-id="温州私家车音乐广播FM100.3[0*0]" tvg-name="温州私家车音乐广播FM100.3[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?温州私家车音乐广播FM100.3[0*0]" group-title="收音广播",温州私家车音乐广播FM100.3[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/23865.m3u8
+#EXTINF:-1 tvg-id="温州经济生活广播FM88.8[0*0]" tvg-name="温州经济生活广播FM88.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?温州经济生活广播FM88.8[0*0]" group-title="收音广播",温州经济生活广播FM88.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/23867.m3u8
+#EXTINF:-1 tvg-id="温州绿色之声FM93.8[0*0]" tvg-name="温州绿色之声FM93.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?温州绿色之声FM93.8[0*0]" group-title="收音广播",温州绿色之声FM93.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1158.m3u8
+#EXTINF:-1 tvg-id="珠海电台交通音乐875[0*0]" tvg-name="珠海电台交通音乐875[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?珠海电台交通音乐875[0*0]" group-title="收音广播",珠海电台交通音乐875[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1275.m3u8
+#EXTINF:-1 tvg-id="西宁交通频率[0*0]" tvg-name="西宁交通频率[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?西宁交通频率[0*0]" group-title="收音广播",西宁交通频率[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/3400408.m3u8
+#EXTINF:-1 tvg-id="西宁新闻频率[0*0]" tvg-name="西宁新闻频率[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?西宁新闻频率[0*0]" group-title="收音广播",西宁新闻频率[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/3400403.m3u8
+#EXTINF:-1 tvg-id="西安交通广播FM104.3(Opt-1)[0*0]" tvg-name="西安交通广播FM104.3(Opt-1)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?西安交通广播FM104.3(Opt-1)[0*0]" group-title="收音广播",西安交通广播FM104.3(Opt-1)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1611.m3u8
+#EXTINF:-1 tvg-id="西安新闻广播FM95.0(Opt-1)[0*0]" tvg-name="西安新闻广播FM95.0(Opt-1)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?西安新闻广播FM95.0(Opt-1)[0*0]" group-title="收音广播",西安新闻广播FM95.0(Opt-1)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1610.m3u8
+#EXTINF:-1 tvg-id="西安音乐广播FM93.1(Opt-1)[0*0]" tvg-name="西安音乐广播FM93.1(Opt-1)[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?西安音乐广播FM93.1(Opt-1)[0*0]" group-title="收音广播",西安音乐广播FM93.1(Opt-1)[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1612.m3u8
+#EXTINF:-1 tvg-id="贵州新闻综合广播FM94.6[0*0]" tvg-name="贵州新闻综合广播FM94.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州新闻综合广播FM94.6[0*0]" group-title="收音广播",贵州新闻综合广播FM94.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/23933.m3u8
+#EXTINF:-1 tvg-id="贵州电台交通广播FM95.2[0*0]" tvg-name="贵州电台交通广播FM95.2[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州电台交通广播FM95.2[0*0]" group-title="收音广播",贵州电台交通广播FM95.2[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/23927.m3u8
+#EXTINF:-1 tvg-id="贵州电台旅游广播FM97.2[0*0]" tvg-name="贵州电台旅游广播FM97.2[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州电台旅游广播FM97.2[0*0]" group-title="收音广播",贵州电台旅游广播FM97.2[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/23929.m3u8
+#EXTINF:-1 tvg-id="贵州电台经济广播FM98.9[0*0]" tvg-name="贵州电台经济广播FM98.9[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州电台经济广播FM98.9[0*0]" group-title="收音广播",贵州电台经济广播FM98.9[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/23935.m3u8
+#EXTINF:-1 tvg-id="贵州电台音乐广播FM91.6[0*0]" tvg-name="贵州电台音乐广播FM91.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州电台音乐广播FM91.6[0*0]" group-title="收音广播",贵州电台音乐广播FM91.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/23937.m3u8
+#EXTINF:-1 tvg-id="辽宁交通广播FM97.5[0*0]" tvg-name="辽宁交通广播FM97.5[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?辽宁交通广播FM97.5[0*0]" group-title="收音广播",辽宁交通广播FM97.5[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/23801.m3u8
+#EXTINF:-1 tvg-id="郑州新闻广播FM98.6[0*0]" tvg-name="郑州新闻广播FM98.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?郑州新闻广播FM98.6[0*0]" group-title="收音广播",郑州新闻广播FM98.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1220.m3u8
+#EXTINF:-1 tvg-id="郑州汽车广播FM91.2[0*0]" tvg-name="郑州汽车广播FM91.2[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?郑州汽车广播FM91.2[0*0]" group-title="收音广播",郑州汽车广播FM91.2[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1211.m3u8
+#EXTINF:-1 tvg-id="郑州车道931[0*0]" tvg-name="郑州车道931[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?郑州车道931[0*0]" group-title="收音广播",郑州车道931[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1221.m3u8
+#EXTINF:-1 tvg-id="郴州综合广播FM99.2[0*0]" tvg-name="郴州综合广播FM99.2[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?郴州综合广播FM99.2[0*0]" group-title="收音广播",郴州综合广播FM99.2[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/76765.m3u8
+#EXTINF:-1 tvg-id="郴州音乐交通广播FM102.8[0*0]" tvg-name="郴州音乐交通广播FM102.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?郴州音乐交通广播FM102.8[0*0]" group-title="收音广播",郴州音乐交通广播FM102.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/86747.m3u8
+#EXTINF:-1 tvg-id="金鹰955电台[0*0]" tvg-name="金鹰955电台[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?金鹰955电台[0*0]" group-title="收音广播",金鹰955电台[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4937.m3u8
+#EXTINF:-1 tvg-id="长春生活故事广播FM90.0[0*0]" tvg-name="长春生活故事广播FM90.0[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?长春生活故事广播FM90.0[0*0]" group-title="收音广播",长春生活故事广播FM90.0[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/5014.m3u8
+#EXTINF:-1 tvg-id="长沙城市之声FM101.7[0*0]" tvg-name="长沙城市之声FM101.7[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?长沙城市之声FM101.7[0*0]" group-title="收音广播",长沙城市之声FM101.7[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4237.m3u8
+#EXTINF:-1 tvg-id="长治交通文艺广播FM94.9[0*0]" tvg-name="长治交通文艺广播FM94.9[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?长治交通文艺广播FM94.9[0*0]" group-title="收音广播",长治交通文艺广播FM94.9[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/2669405.m3u8
+#EXTINF:-1 tvg-id="长治新闻综合广播(幸福广播)FM94.3[0*0]" tvg-name="长治新闻综合广播(幸福广播)FM94.3[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?长治新闻综合广播(幸福广播)FM94.3[0*0]" group-title="收音广播",长治新闻综合广播(幸福广播)FM94.3[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/2702863.m3u8
+#EXTINF:-1 tvg-id="阳信人民广播电台FM103.4[0*0]" tvg-name="阳信人民广播电台FM103.4[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?阳信人民广播电台FM103.4[0*0]" group-title="收音广播",阳信人民广播电台FM103.4[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/2915753.m3u8
+#EXTINF:-1 tvg-id="阳泉交通广播[0*0]" tvg-name="阳泉交通广播[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?阳泉交通广播[0*0]" group-title="收音广播",阳泉交通广播[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4592896.m3u8?aac
+#EXTINF:-1 tvg-id="阳泉新闻综合广播[0*0]" tvg-name="阳泉新闻综合广播[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?阳泉新闻综合广播[0*0]" group-title="收音广播",阳泉新闻综合广播[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/5876899.m3u8?aac
+#EXTINF:-1 tvg-id="陕西交通广播FM91.6[0*0]" tvg-name="陕西交通广播FM91.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?陕西交通广播FM91.6[0*0]" group-title="收音广播",陕西交通广播FM91.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1601.m3u8
+#EXTINF:-1 tvg-id="陕西故事广播AM603[0*0]" tvg-name="陕西故事广播AM603[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?陕西故事广播AM603[0*0]" group-title="收音广播",陕西故事广播AM603[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1608.m3u8
+#EXTINF:-1 tvg-id="陕西秦腔广播FM101.1[0*0]" tvg-name="陕西秦腔广播FM101.1[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?陕西秦腔广播FM101.1[0*0]" group-title="收音广播",陕西秦腔广播FM101.1[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1604.m3u8
+#EXTINF:-1 tvg-id="陕西都市广播-陕广新闻FM101.8[0*0]" tvg-name="陕西都市广播-陕广新闻FM101.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?陕西都市广播-陕广新闻FM101.8[0*0]" group-title="收音广播",陕西都市广播-陕广新闻FM101.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1609.m3u8
+#EXTINF:-1 tvg-id="陕西音乐广播FM98.8[0*0]" tvg-name="陕西音乐广播FM98.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?陕西音乐广播FM98.8[0*0]" group-title="收音广播",陕西音乐广播FM98.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4873.m3u8
+#EXTINF:-1 tvg-id="青岛交通广播FM89.7[0*0]" tvg-name="青岛交通广播FM89.7[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?青岛交通广播FM89.7[0*0]" group-title="收音广播",青岛交通广播FM89.7[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1676.m3u8
+#EXTINF:-1 tvg-id="青岛故事广播FM95.2[0*0]" tvg-name="青岛故事广播FM95.2[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?青岛故事广播FM95.2[0*0]" group-title="收音广播",青岛故事广播FM95.2[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4956.m3u8
+#EXTINF:-1 tvg-id="青岛新闻广播FM107.6[0*0]" tvg-name="青岛新闻广播FM107.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?青岛新闻广播FM107.6[0*0]" group-title="收音广播",青岛新闻广播FM107.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/1673.m3u8
+#EXTINF:-1 tvg-id="青岛西海岸城市生活广播FM92.6[0*0]" tvg-name="青岛西海岸城市生活广播FM92.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?青岛西海岸城市生活广播FM92.6[0*0]" group-title="收音广播",青岛西海岸城市生活广播FM92.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/33446.m3u8
+#EXTINF:-1 tvg-id="青海交通音乐广播FM97.2[0*0]" tvg-name="青海交通音乐广播FM97.2[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?青海交通音乐广播FM97.2[0*0]" group-title="收音广播",青海交通音乐广播FM97.2[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/5009.m3u8
+#EXTINF:-1 tvg-id="青海生活广播花儿调频FM90.3[0*0]" tvg-name="青海生活广播花儿调频FM90.3[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?青海生活广播花儿调频FM90.3[0*0]" group-title="收音广播",青海生活广播花儿调频FM90.3[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/2163891.m3u8
+#EXTINF:-1 tvg-id="青海经济广播FM07.5[0*0]" tvg-name="青海经济广播FM07.5[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?青海经济广播FM07.5[0*0]" group-title="收音广播",青海经济广播FM07.5[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/5008.m3u8
+#EXTINF:-1 tvg-id="鹤壁交通音乐广播FM93.5[0*0]" tvg-name="鹤壁交通音乐广播FM93.5[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?鹤壁交通音乐广播FM93.5[0*0]" group-title="收音广播",鹤壁交通音乐广播FM93.5[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/3032681.m3u8
+#EXTINF:-1 tvg-id="龙广交通广播FM99.8[0*0]" tvg-name="龙广交通广播FM99.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?龙广交通广播FM99.8[0*0]" group-title="收音广播",龙广交通广播FM99.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4973.m3u8
+#EXTINF:-1 tvg-id="龙广新闻广播FM94.6[0*0]" tvg-name="龙广新闻广播FM94.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?龙广新闻广播FM94.6[0*0]" group-title="收音广播",龙广新闻广播FM94.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4974.m3u8
+#EXTINF:-1 tvg-id="龙广新闻广播FM94.6[0*0]" tvg-name="龙广新闻广播FM94.6[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?龙广新闻广播FM94.6[0*0]" group-title="收音广播",龙广新闻广播FM94.6[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4974.m3u8
+#EXTINF:-1 tvg-id="龙广音乐广播FM95.8[0*0]" tvg-name="龙广音乐广播FM95.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?龙广音乐广播FM95.8[0*0]" group-title="收音广播",龙广音乐广播FM95.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4969.m3u8
+#EXTINF:-1 tvg-id="龙广音乐广播FM95.8[0*0]" tvg-name="龙广音乐广播FM95.8[0*0]" tvg-logo="http://logo.diyp.site:49377/logo.php?龙广音乐广播FM95.8[0*0]" group-title="收音广播",龙广音乐广播FM95.8[0*0]
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ls.qingting.fm/live/4969.m3u8

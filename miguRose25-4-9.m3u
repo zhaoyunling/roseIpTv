@@ -1,0 +1,138 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-id="咪咕直播-1" tvg-name="咪咕直播-1" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-1" group-title="移动咪咕",咪咕直播-1
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-2" tvg-name="咪咕直播-2" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-2" group-title="移动咪咕",咪咕直播-2
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-3" tvg-name="咪咕直播-3" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-3" group-title="移动咪咕",咪咕直播-3
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-4" tvg-name="咪咕直播-4" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-4" group-title="移动咪咕",咪咕直播-4
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-5" tvg-name="咪咕直播-5" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-5" group-title="移动咪咕",咪咕直播-5
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-6" tvg-name="咪咕直播-6" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-6" group-title="移动咪咕",咪咕直播-6
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-7" tvg-name="咪咕直播-7" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-7" group-title="移动咪咕",咪咕直播-7
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000001000010129/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-8" tvg-name="咪咕直播-8" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-8" group-title="移动咪咕",咪咕直播-8
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-10" tvg-name="咪咕直播-10" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-10" group-title="移动咪咕",咪咕直播-10
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-11" tvg-name="咪咕直播-11" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-11" group-title="移动咪咕",咪咕直播-11
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-12" tvg-name="咪咕直播-12" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-12" group-title="移动咪咕",咪咕直播-12
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000000097/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-13" tvg-name="咪咕直播-13" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-13" group-title="移动咪咕",咪咕直播-13
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000002019/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-15" tvg-name="咪咕直播-15" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-15" group-title="移动咪咕",咪咕直播-15
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000002809/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-16" tvg-name="咪咕直播-16" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-16" group-title="移动咪咕",咪咕直播-16
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000003915/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-17" tvg-name="咪咕直播-17" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-17" group-title="移动咪咕",咪咕直播-17
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000004193/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-19" tvg-name="咪咕直播-19" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-19" group-title="移动咪咕",咪咕直播-19
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000005837/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-20" tvg-name="咪咕直播-20" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-20" group-title="移动咪咕",咪咕直播-20
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000006077/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-21" tvg-name="咪咕直播-21" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-21" group-title="移动咪咕",咪咕直播-21
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000006658/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-24" tvg-name="咪咕直播-24" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-24" group-title="移动咪咕",咪咕直播-24
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000009788/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-25" tvg-name="咪咕直播-25" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-25" group-title="移动咪咕",咪咕直播-25
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000010833/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-27" tvg-name="咪咕直播-27" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-27" group-title="移动咪咕",咪咕直播-27
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000011297/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-28" tvg-name="咪咕直播-28" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-28" group-title="移动咪咕",咪咕直播-28
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000011518/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-33" tvg-name="咪咕直播-33" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-33" group-title="移动咪咕",咪咕直播-33
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000012558/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-34" tvg-name="咪咕直播-34" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-34" group-title="移动咪咕",咪咕直播-34
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000012616/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-35" tvg-name="咪咕直播-35" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-35" group-title="移动咪咕",咪咕直播-35
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000015470/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-36" tvg-name="咪咕直播-36" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-36" group-title="移动咪咕",咪咕直播-36
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000015560/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-38" tvg-name="咪咕直播-38" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-38" group-title="移动咪咕",咪咕直播-38
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000017678/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-41" tvg-name="咪咕直播-41" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-41" group-title="移动咪咕",咪咕直播-41
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000019839/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-43" tvg-name="咪咕直播-43" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-43" group-title="移动咪咕",咪咕直播-43
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000021904/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-44" tvg-name="咪咕直播-44" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-44" group-title="移动咪咕",咪咕直播-44
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000023434/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-47" tvg-name="咪咕直播-47" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-47" group-title="移动咪咕",咪咕直播-47
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000025380/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-51" tvg-name="咪咕直播-51" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-51" group-title="移动咪咕",咪咕直播-51
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000027691/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-52" tvg-name="咪咕直播-52" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-52" group-title="移动咪咕",咪咕直播-52
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000031669/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-1-4K" tvg-name="咪咕直播-1-4K" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-1-4K" group-title="移动咪咕",咪咕直播-1-4K
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.135.134.67/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-id="咪咕直播-2-4K" tvg-name="咪咕直播-2-4K" tvg-logo="http://logo.diyp.site:49377/logo.php?咪咕直播-2-4K" group-title="移动咪咕",咪咕直播-2-4K
