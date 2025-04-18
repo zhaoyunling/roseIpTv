@@ -4,260 +4,105 @@
 #EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
 
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-1" group-title="央视频",CCTV-1
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-2" group-title="央视频",CCTV-2
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-3" group-title="央视频",CCTV-3
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-4" group-title="央视频",CCTV-4
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-5" group-title="央视频",CCTV-5
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-5+" group-title="央视频",CCTV-5+
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-6" group-title="央视频",CCTV-6
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024086203.m3u8
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-7" group-title="央视频",CCTV-7
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-8" group-title="央视频",CCTV-8
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078503.m3u8
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-9" group-title="央视频",CCTV-9
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-10" group-title="央视频",CCTV-10
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078703.m3u8
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-11" group-title="央视频",CCTV-11
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078803.m3u8
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-12" group-title="央视频",CCTV-12
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078903.m3u8
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-13" group-title="央视频",CCTV-13
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-14" group-title="央视频",CCTV-14
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079103.m3u8
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-15" group-title="央视频",CCTV-15
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079203.m3u8
-#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-16" group-title="央视频",CCTV-16
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079303.m3u8
-#EXTINF:-1 tvg-id="CCTV-16-4K" tvg-name="CCTV-16-4K" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-16-4K" group-title="央视频",CCTV-16-4K
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-17" group-title="央视频",CCTV-17
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079503.m3u8
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-4K" group-title="央视频",CCTV-4K
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
-#EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV-8K" group-title="央视频",CCTV-8K
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603465.m3u8
-#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV世界地理" group-title="央视频",CCTV世界地理
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172003.m3u8
-#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV兵器科技" group-title="央视频",CCTV兵器科技
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172103.m3u8
-#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV第一剧场" group-title="央视频",CCTV第一剧场
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
-#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV怀旧剧场" group-title="央视频",CCTV怀旧剧场
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV风云剧场" group-title="央视频",CCTV风云剧场
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
-#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV风云音乐" group-title="央视频",CCTV风云音乐
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV风云足球" group-title="央视频",CCTV风云足球
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-#EXTINF:-1 tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV央视文化精品" group-title="央视频",CCTV央视文化精品
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-name="CCTV高尔夫·网球" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV高尔夫·网球" group-title="央视频",CCTV高尔夫·网球
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
-#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV央视台球" group-title="央视频",CCTV央视台球
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
-#EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV电视指南" group-title="央视频",CCTV电视指南
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172503.m3u8
-#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV女性时尚" group-title="央视频",CCTV女性时尚
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172203.m3u8
-#EXTINF:-1 tvg-id="CCTV卫生健康" tvg-name="CCTV卫生健康" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV卫生健康" group-title="央视频",CCTV卫生健康
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024165203.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="http://logo.diyp.site:49377/logo.php?CGTN" group-title="央视频",CGTN
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024181703.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="http://logo.diyp.site:49377/logo.php?CGTN纪录" group-title="央视频",CGTN纪录
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024182303.m3u8
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="http://logo.diyp.site:49377/logo.php?CGTN西语" group-title="央视频",CGTN西语
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024182103.m3u8
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="http://logo.diyp.site:49377/logo.php?CGTN法语" group-title="央视频",CGTN法语
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024181803.m3u8
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="http://logo.diyp.site:49377/logo.php?CGTN阿语" group-title="央视频",CGTN阿语
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024182003.m3u8
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="http://logo.diyp.site:49377/logo.php?CGTN俄语" group-title="央视频",CGTN俄语
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024181903.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
+http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2
+http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3
+http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4
+http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?北京卫视" group-title="卫视视频",北京卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024052703.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?东方卫视" group-title="卫视视频",东方卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054502.m3u8
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?天津卫视" group-title="卫视视频",天津卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927003.m3u8
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆卫视" group-title="卫视视频",重庆卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061102.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江卫视" group-title="卫视视频",黑龙江卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061002.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?辽宁卫视" group-title="卫视视频",辽宁卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171302.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?河北卫视" group-title="卫视视频",河北卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171502.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?山东卫视" group-title="卫视视频",山东卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171602.m3u8
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽卫视" group-title="卫视视频",安徽卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171402.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?河南卫视" group-title="卫视视频",河南卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024059702.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?湖北卫视" group-title="卫视视频",湖北卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171202.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南卫视" group-title="卫视视频",湖南卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054802.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?江西卫视" group-title="卫视视频",江西卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061702.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?江苏卫视" group-title="卫视视频",江苏卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171102.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江卫视" group-title="卫视视频",浙江卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054702.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?东南卫视" group-title="卫视视频",东南卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061502.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?广东卫视" group-title="卫视视频",广东卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060902.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳卫视" group-title="卫视视频",深圳卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061302.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?广西卫视" group-title="卫视视频",广西卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060702.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州卫视" group-title="卫视视频",贵州卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061602.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?四川卫视" group-title="卫视视频",四川卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061402.m3u8
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆卫视" group-title="卫视视频",新疆卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?海南卫视" group-title="卫视视频",海南卫视
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://1.82.234.103:80/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024055602.m3u8
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6
+http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7
+http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8
+http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV10
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV12
+http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV13
+http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV14
+http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN
+http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
+
+
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
+http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.cn/tv/北京文艺.png" group-title="卫视频道",北京文艺
+http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-name="北京体育" tvg-logo="https://live.fanmingming.cn/tv/北京体育.png" group-title="卫视频道",北京体育
+http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.cn/tv/北京影视.png" group-title="卫视频道",北京影视
+http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.cn/tv/北京新闻.png" group-title="卫视频道",北京新闻
+http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://live.fanmingming.cn/tv/北京纪实.png" group-title="卫视频道",北京纪实
+http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://iptv.huuc.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
+http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://iptv.huuc.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
+http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
+http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
+http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://live.fanmingming.cn/tv/上海纪实.png" group-title="卫视频道",上海纪实
+http://iptv.huuc.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视
+http://iptv.huuc.edu.cn/hls/schd.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="卫视频道",金鹰纪实
+http://iptv.huuc.edu.cn/hls/gedocu.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
+http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视频道",河北卫视
+http://iptv.huuc.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
+http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png",兵团卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png",青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png",安多卫视
+http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050
 
 
 
