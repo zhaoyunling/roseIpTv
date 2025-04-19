@@ -1,0 +1,932 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV1" group-title="移动V4央视",CCTV1
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV2" group-title="移动V4央视",CCTV2
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV3" group-title="移动V4央视",CCTV3
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV4" group-title="移动V4央视",CCTV4
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV5" group-title="移动V4央视",CCTV5
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV5+" group-title="移动V4央视",CCTV5+
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV6" group-title="移动V4央视",CCTV6
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV7" group-title="移动V4央视",CCTV7
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV8" group-title="移动V4央视",CCTV8
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV9" group-title="移动V4央视",CCTV9
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV10" group-title="移动V4央视",CCTV10
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV11" group-title="移动V4央视",CCTV11
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV12" group-title="移动V4央视",CCTV12
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV13" group-title="移动V4央视",CCTV13
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV14" group-title="移动V4央视",CCTV14
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV15" group-title="移动V4央视",CCTV15
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV16" group-title="移动V4央视",CCTV16
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV17" group-title="移动V4央视",CCTV17
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
+
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽卫视" group-title="移动V4卫视",安徽卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225923/1.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽卫视" group-title="移动V4卫视",安徽卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?北京卫视" group-title="移动V4卫视",北京卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225927/1.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?北京卫视" group-title="移动V4卫视",北京卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?东方卫视" group-title="移动V4卫视",东方卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?东方卫视" group-title="移动V4卫视",东方卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225960/1.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?东南卫视" group-title="移动V4卫视",东南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?广东卫视" group-title="移动V4卫视",广东卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225962/1.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?广东卫视" group-title="移动V4卫视",广东卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州卫视" group-title="移动V4卫视",贵州卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?河北卫视" group-title="移动V4卫视",河北卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?河北卫视" group-title="移动V4卫视",河北卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225991/1.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?湖北卫视" group-title="移动V4卫视",湖北卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?江苏卫视" group-title="移动V4卫视",江苏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225929/1.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?江苏卫视" group-title="移动V4卫视",江苏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?江西卫视" group-title="移动V4卫视",江西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?江西卫视" group-title="移动V4卫视",江西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225995/1.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?辽宁卫视" group-title="移动V4卫视",辽宁卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225944/1.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?青海卫视" group-title="移动V4卫视",青海卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225948/1.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?山东卫视" group-title="移动V4卫视",山东卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?陕西卫视" group-title="移动V4卫视",陕西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225989/1.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳卫视" group-title="移动V4卫视",深圳卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳卫视" group-title="移动V4卫视",深圳卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225997/1.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?四川卫视" group-title="移动V4卫视",四川卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?天津卫视" group-title="移动V4卫视",天津卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?西藏卫视" group-title="移动V4卫视",西藏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆卫视" group-title="移动V4卫视",新疆卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225999/1.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?云南卫视" group-title="移动V4卫视",云南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225957/1.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江卫视" group-title="移动V4卫视",浙江卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆卫视" group-title="移动V4卫视",重庆卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?兵团卫视" group-title="移动V4卫视",兵团卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226005/1.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?东南卫视" group-title="移动V4卫视",东南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226038/1.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?广西卫视" group-title="移动V4卫视",广西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州卫视" group-title="移动V4卫视",贵州卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226030/1.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?海南卫视" group-title="移动V4卫视",海南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?河南卫视" group-title="移动V4卫视",河南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226023/1.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江卫视" group-title="移动V4卫视",黑龙江卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226006/1.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?湖北卫视" group-title="移动V4卫视",湖北卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226015/1.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南卫视" group-title="移动V4卫视",湖南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226000/1.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?吉林卫视" group-title="移动V4卫视",吉林卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226013/1.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?内蒙古卫视" group-title="移动V4卫视",内蒙古卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226017/1.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?宁夏卫视" group-title="移动V4卫视",宁夏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226028/1.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?山东卫视" group-title="移动V4卫视",山东卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226034/1.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?山西卫视" group-title="移动V4卫视",山西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?四川卫视" group-title="移动V4卫视",四川卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226014/1.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?天津卫视" group-title="移动V4卫视",天津卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226003/1.m3u8
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?延边卫视" group-title="移动V4卫视",延边卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226040/1.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆卫视" group-title="移动V4卫视",重庆卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226001/1.m3u8
+#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江文体" group-title="移动V4卫视",黑龙江文体
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226012/1.m3u8
+#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江都市" group-title="移动V4卫视",黑龙江都市
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225969/1.m3u8
+#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江都市" group-title="移动V4卫视",黑龙江都市
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225990/1.m3u8
+#EXTINF:-1 tvg-id="黑龙江农业科教" tvg-name="黑龙江农业科教" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江农业科教" group-title="移动V4卫视",黑龙江农业科教
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225994/1.m3u8
+#EXTINF:-1 tvg-id="黑龙江农业科教" tvg-name="黑龙江农业科教" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江农业科教" group-title="移动V4卫视",黑龙江农业科教
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225998/1.m3u8
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江少儿" group-title="移动V4卫视",黑龙江少儿
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225979/1.m3u8
+#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江文体" group-title="移动V4卫视",黑龙江文体
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225965/1.m3u8
+#EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-name="黑龙江新闻法治" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江新闻法治" group-title="移动V4卫视",黑龙江新闻法治
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225967/1.m3u8
+#EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-name="黑龙江新闻法治" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江新闻法治" group-title="移动V4卫视",黑龙江新闻法治
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225992/1.m3u8
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江影视" group-title="移动V4卫视",黑龙江影视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225973/1.m3u8
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="http://logo.diyp.site:49377/logo.php?睛彩竞技" group-title="移动V4卫视",睛彩竞技
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226046/1.m3u8
+#EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="http://logo.diyp.site:49377/logo.php?新闻综合" group-title="移动V4卫视",新闻综合
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221226062/1.m3u8
+#EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="http://logo.diyp.site:49377/logo.php?新闻综合" group-title="移动V4卫视",新闻综合
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://39.134.67.108/PLTV/88888888/224/3221225993/1.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南卫视" group-title="移动V4卫视",湖南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江卫视" group-title="移动V4卫视",浙江卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?江苏卫视" group-title="移动V4卫视",江苏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?东方卫视" group-title="移动V4卫视",东方卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?北京卫视" group-title="移动V4卫视",北京卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?东方卫视" group-title="移动V4卫视",东方卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆卫视" group-title="移动V4卫视",重庆卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?天津卫视" group-title="移动V4卫视",天津卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江卫视" group-title="移动V4卫视",黑龙江卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?辽宁卫视" group-title="移动V4卫视",辽宁卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?吉林卫视" group-title="移动V4卫视",吉林卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?河北卫视" group-title="移动V4卫视",河北卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?河南卫视" group-title="移动V4卫视",河南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?山东卫视" group-title="移动V4卫视",山东卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?山西卫视" group-title="移动V4卫视",山西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?湖北卫视" group-title="移动V4卫视",湖北卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南卫视" group-title="移动V4卫视",湖南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江卫视" group-title="移动V4卫视",浙江卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?江苏卫视" group-title="移动V4卫视",江苏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?江西卫视" group-title="移动V4卫视",江西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽卫视" group-title="移动V4卫视",安徽卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?广东卫视" group-title="移动V4卫视",广东卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳卫视" group-title="移动V4卫视",深圳卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?广西卫视" group-title="移动V4卫视",广西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?云南卫视" group-title="移动V4卫视",云南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州卫视" group-title="移动V4卫视",贵州卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?四川卫视" group-title="移动V4卫视",四川卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?东南卫视" group-title="移动V4卫视",东南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?内蒙古卫视" group-title="移动V4卫视",内蒙古卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?陕西卫视" group-title="移动V4卫视",陕西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?甘肃卫视" group-title="移动V4卫视",甘肃卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽卫视" group-title="移动V4卫视",安徽卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?北京卫视" group-title="移动V4卫视",北京卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?东方卫视" group-title="移动V4卫视",东方卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?东南卫视" group-title="移动V4卫视",东南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?甘肃卫视" group-title="移动V4卫视",甘肃卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?广东卫视" group-title="移动V4卫视",广东卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?广西卫视" group-title="移动V4卫视",广西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州卫视" group-title="移动V4卫视",贵州卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?海南卫视" group-title="移动V4卫视",海南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?河北卫视" group-title="移动V4卫视",河北卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?河南卫视" group-title="移动V4卫视",河南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江卫视" group-title="移动V4卫视",黑龙江卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?湖北卫视" group-title="移动V4卫视",湖北卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?湖南卫视" group-title="移动V4卫视",湖南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?吉林卫视" group-title="移动V4卫视",吉林卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?江苏卫视" group-title="移动V4卫视",江苏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?江西卫视" group-title="移动V4卫视",江西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?内蒙古卫视" group-title="移动V4卫视",内蒙古卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?宁夏卫视" group-title="移动V4卫视",宁夏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?青海卫视" group-title="移动V4卫视",青海卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8#http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?山东卫视" group-title="移动V4卫视",山东卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?山西卫视" group-title="移动V4卫视",山西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?陕西卫视" group-title="移动V4卫视",陕西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳卫视" group-title="移动V4卫视",深圳卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?四川卫视" group-title="移动V4卫视",四川卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?天津卫视" group-title="移动V4卫视",天津卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?西藏卫视" group-title="移动V4卫视",西藏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆卫视" group-title="移动V4卫视",新疆卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?云南卫视" group-title="移动V4卫视",云南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江卫视" group-title="移动V4卫视",浙江卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆卫视" group-title="移动V4卫视",重庆卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?大湾区卫视" group-title="移动V4卫视",大湾区卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?兵团卫视" group-title="移动V4卫视",兵团卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?康巴卫视" group-title="移动V4卫视",康巴卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?山东教育卫视" group-title="移动V4卫视",山东教育卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?安多卫视" group-title="移动V4卫视",安多卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="http://logo.diyp.site:49377/logo.php?哈哈炫动" group-title="移动V4卫视",哈哈炫动
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="http://logo.diyp.site:49377/logo.php?卡酷少儿" group-title="移动V4卫视",卡酷少儿
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="http://logo.diyp.site:49377/logo.php?优漫卡通" group-title="移动V4卫视",优漫卡通
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="http://logo.diyp.site:49377/logo.php?金鹰卡通" group-title="移动V4卫视",金鹰卡通
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="http://logo.diyp.site:49377/logo.php?黑莓动画" group-title="移动V4卫视",黑莓动画
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="http://logo.diyp.site:49377/logo.php?黑莓电影" group-title="移动V4卫视",黑莓电影
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="http://logo.diyp.site:49377/logo.php?超级体育" group-title="移动V4卫视",超级体育
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?北京卫视" group-title="移动V4卫视",北京卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?江苏卫视" group-title="移动V4卫视",江苏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?浙江卫视" group-title="移动V4卫视",浙江卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?东方卫视" group-title="移动V4卫视",东方卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?广东卫视" group-title="移动V4卫视",广东卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?黑龙江卫视" group-title="移动V4卫视",黑龙江卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?深圳卫视" group-title="移动V4卫视",深圳卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?天津卫视" group-title="移动V4卫视",天津卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?山东卫视" group-title="移动V4卫视",山东卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?湖北卫视" group-title="移动V4卫视",湖北卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?贵州卫视" group-title="移动V4卫视",贵州卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?江西卫视" group-title="移动V4卫视",江西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?重庆卫视" group-title="移动V4卫视",重庆卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?辽宁卫视" group-title="移动V4卫视",辽宁卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?东南卫视" group-title="移动V4卫视",东南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?四川卫视" group-title="移动V4卫视",四川卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?广西卫视" group-title="移动V4卫视",广西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?河北卫视" group-title="移动V4卫视",河北卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?山西卫视" group-title="移动V4卫视",山西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?陕西卫视" group-title="移动V4卫视",陕西卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?青海卫视" group-title="移动V4卫视",青海卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽卫视" group-title="移动V4卫视",安徽卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?甘肃卫视" group-title="移动V4卫视",甘肃卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?宁夏卫视" group-title="移动V4卫视",宁夏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?内蒙古卫视" group-title="移动V4卫视",内蒙古卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?云南卫视" group-title="移动V4卫视",云南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?新疆卫视" group-title="移动V4卫视",新疆卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?吉林卫视" group-title="移动V4卫视",吉林卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?海南卫视" group-title="移动V4卫视",海南卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?西藏卫视" group-title="移动V4卫视",西藏卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?延边卫视" group-title="移动V4卫视",延边卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?康巴卫视" group-title="移动V4卫视",康巴卫视
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="http://logo.diyp.site:49377/logo.php?CETV-1" group-title="移动V4卫视",CETV-1
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227021/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELlgU9sgTT7iMtFgKHFa-dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="http://logo.diyp.site:49377/logo.php?CETV-4" group-title="移动V4卫视",CETV-4
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="http://logo.diyp.site:49377/logo.php?卡酷少儿" group-title="移动V4卫视",卡酷少儿
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227024/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjvuDD-WqVkjs3cnfSInf6A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="http://logo.diyp.site:49377/logo.php?山东教育" group-title="移动V4卫视",山东教育
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227022/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EMkWp5fwJWRSC2qPwffoOzQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="http://logo.diyp.site:49377/logo.php?优漫卡通" group-title="移动V4卫视",优漫卡通
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227007/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhHDWGhkwx_zJcJUYE9TAaA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="http://logo.diyp.site:49377/logo.php?哈哈炫动" group-title="移动V4卫视",哈哈炫动
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227025/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7RoPnbSvRPd3KyTpQ76WpA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="http://logo.diyp.site:49377/logo.php?优购物" group-title="移动V4卫视",优购物
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226386/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EM87pGmpUFywKpSY4lOHrFQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="http://logo.diyp.site:49377/logo.php?央广购物" group-title="移动V4卫视",央广购物
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227001/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX1FjruLJHCK_AUQtyT2cVw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="http://logo.diyp.site:49377/logo.php?央广购物" group-title="移动V4卫视",央广购物
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227001/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX1FjruLJHCK_AUQtyT2cVw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="快乐购" tvg-name="快乐购" tvg-logo="http://logo.diyp.site:49377/logo.php?快乐购" group-title="移动V4卫视",快乐购
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227032/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6KOfSXtMZyt4SBfaYJNrxA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="http://logo.diyp.site:49377/logo.php?优购物" group-title="移动V4卫视",优购物
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226386/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EM87pGmpUFywKpSY4lOHrFQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="风尚购物" tvg-name="风尚购物" tvg-logo="http://logo.diyp.site:49377/logo.php?风尚购物" group-title="移动V4卫视",风尚购物
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226345/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E-GNr_ncTz5EPhq3qvFvk0Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="http://logo.diyp.site:49377/logo.php?央广购物" group-title="移动V4卫视",央广购物
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227001/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX1FjruLJHCK_AUQtyT2cVw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="http://logo.diyp.site:49377/logo.php?优购物" group-title="移动V4卫视",优购物
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226386/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EM87pGmpUFywKpSY4lOHrFQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="http://logo.diyp.site:49377/logo.php?优购物" group-title="移动V4卫视",优购物
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226386/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EM87pGmpUFywKpSY4lOHrFQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="http://logo.diyp.site:49377/logo.php?超级电视剧" group-title="移动V4卫视",超级电视剧
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EVGh4wVrIL86YabiEzt0u5Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="http://logo.diyp.site:49377/logo.php?超级电影" group-title="移动V4卫视",超级电影
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EOKgJ-MarN4M0aStGnXjR0A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="http://logo.diyp.site:49377/logo.php?睛彩竞技" group-title="移动V4卫视",睛彩竞技
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELNKCwls2CgCuSsq57Mh8ug%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="http://logo.diyp.site:49377/logo.php?睛彩篮球" group-title="移动V4卫视",睛彩篮球
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EKXl4MjVH6lXYRTccqcbi4w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="http://logo.diyp.site:49377/logo.php?超级体育" group-title="移动V4卫视",超级体育
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETVADpDcwLMjKKWF--XtEOg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="超级综艺" tvg-name="超级综艺" tvg-logo="http://logo.diyp.site:49377/logo.php?超级综艺" group-title="移动V4卫视",超级综艺
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EYioXJd79dXZ_L0XAyn5Oqg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="睛彩体育" tvg-name="睛彩体育" tvg-logo="http://logo.diyp.site:49377/logo.php?睛彩体育" group-title="移动V4卫视",睛彩体育
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELNKCwls2CgCuSsq57Mh8ug%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="http://logo.diyp.site:49377/logo.php?精品萌宠" group-title="移动V4卫视",精品萌宠
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EvfRMC51wpBEwf_3ooIvthw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="http://logo.diyp.site:49377/logo.php?黑莓动画" group-title="移动V4卫视",黑莓动画
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="http://logo.diyp.site:49377/logo.php?古装剧场" group-title="移动V4卫视",古装剧场
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E-5s4GUWW-btT1rNpig0Z_Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="http://logo.diyp.site:49377/logo.php?动作电影" group-title="移动V4卫视",动作电影
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBow_B3ta32lPIHmLzLPzVQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="http://logo.diyp.site:49377/logo.php?军旅剧场" group-title="移动V4卫视",军旅剧场
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfN0xtIcVecPauWX6HCC38w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="http://logo.diyp.site:49377/logo.php?家庭剧场" group-title="移动V4卫视",家庭剧场
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EftyW3kjTIOj5n2P8RZkDxQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="http://logo.diyp.site:49377/logo.php?惊悚悬疑" group-title="移动V4卫视",惊悚悬疑
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsZ9kjVUW6IQXTWQniX9Byg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="未知" tvg-name="未知" tvg-logo="http://logo.diyp.site:49377/logo.php?未知" group-title="移动V4卫视",未知
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226982/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E3-4ssTWVRRSna2CFQXnugg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="未知2" tvg-name="未知2" tvg-logo="http://logo.diyp.site:49377/logo.php?未知2" group-title="移动V4卫视",未知2
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfLBCW0GUL1k986fkoE_7hA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="http://logo.diyp.site:49377/logo.php?黑莓电影" group-title="移动V4卫视",黑莓电影
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="http://logo.diyp.site:49377/logo.php?爱情喜剧" group-title="移动V4卫视",爱情喜剧
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226989/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ea1N_KgA8ifZhGjOaqvKIMg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="http://logo.diyp.site:49377/logo.php?精品大剧" group-title="移动V4卫视",精品大剧
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E3L0P9l_fI2y0M6HyVzY8Ag%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="http://logo.diyp.site:49377/logo.php?中国功夫" group-title="移动V4卫视",中国功夫
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEWe2gbwg0iLJum2oZPyg5Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="http://logo.diyp.site:49377/logo.php?金牌综艺" group-title="移动V4卫视",金牌综艺
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="http://logo.diyp.site:49377/logo.php?军事评论" group-title="移动V4卫视",军事评论
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqRd0uU_hKSUti2u5P6u77Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="http://logo.diyp.site:49377/logo.php?哒啵赛事" group-title="移动V4卫视",哒啵赛事
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErjVvYM0ZqthE-XIiqeoM2g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="http://logo.diyp.site:49377/logo.php?哒啵电竞" group-title="移动V4卫视",哒啵电竞
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EyKHPEcCpKH4LmXqAQnvIbg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="http://logo.diyp.site:49377/logo.php?精品纪录" group-title="移动V4卫视",精品纪录
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EytT16QRYWEl2rKz4kPSdcQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="http://logo.diyp.site:49377/logo.php?怡伴健康" group-title="移动V4卫视",怡伴健康
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjNp5Bk4D1QoMTHkXgT3WLA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="http://logo.diyp.site:49377/logo.php?精品体育" group-title="移动V4卫视",精品体育
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEZy1Vmu4k2lYOlZCsti1BQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="http://logo.diyp.site:49377/logo.php?潮妈辣婆" group-title="移动V4卫视",潮妈辣婆
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_buXEAIzLX9DkyCQHTUDaw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="http://logo.diyp.site:49377/logo.php?农业致富" group-title="移动V4卫视",农业致富
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUhRIwwqVhPIhuesQTtJ55Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="http://logo.diyp.site:49377/logo.php?炫舞未来" group-title="移动V4卫视",炫舞未来
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg4-11jnFsVKreoQSmD_yXg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="http://logo.diyp.site:49377/logo.php?精品萌宠" group-title="移动V4卫视",精品萌宠
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EvfRMC51wpBEwf_3ooIvthw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="http://logo.diyp.site:49377/logo.php?睛彩青少" group-title="移动V4卫视",睛彩青少
+#EXTVLCOPT:http-user-agent=DIYP
+#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAWLGkc6X5Fh9eyLXH5iy4A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
