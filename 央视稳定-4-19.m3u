@@ -5,10 +5,6 @@
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV1" group-title="移动V4央视",CCTV1
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
 
 
 
@@ -17,10 +13,6 @@ http://223.110.240.208:6610/gitv/live1/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221227708/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV2" group-title="移动V4央视",CCTV2财经
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
 
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV3" group-title="移动V4央视",CCTV3
 #EXTVLCOPT:http-user-agent=DIYP
@@ -33,20 +25,14 @@ http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221227424/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV3" group-title="移动V4央视",CCTV3
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-3-MD/G_CCTV-3-MD.m3u8
+
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV4" group-title="移动V4央视",CCTV4
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221227658/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV4" group-title="移动V4央视",CCTV4
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
+
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV5" group-title="移动V4央视",CCTV5
 #EXTVLCOPT:http-user-agent=DIYP
@@ -58,10 +44,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221227686/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV5" group-title="移动V4央视",CCTV5
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-5-MD/G_CCTV-5-MD.m3u8
+
 
 
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV5+" group-title="移动V4央视",CCTV5+
@@ -69,16 +52,12 @@ http://223.110.240.208:6610/gitv/live1/G_CCTV-5-MD/G_CCTV-5-MD.m3u8
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221227714/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV5+" group-title="移动V4央视",CCTV5+
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://ott.mobaibox.com/PLTV/3/224/3221227664/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV6" group-title="移动V4央视",CCTV6
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-6-MD/G_CCTV-6-MD.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227664/index.
 
 
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV7" group-title="移动V4央视",CCTV7
@@ -86,60 +65,37 @@ http://223.110.240.208:6610/gitv/live1/G_CCTV-6-MD/G_CCTV-6-MD.m3u8
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV7" group-title="移动V4央视",CCTV7
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-7-HD-265-8M/G_CCTV-7-HD-265-8M.m3u8
 
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV8" group-title="移动V4央视",CCTV8
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221227433/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV8" group-title="移动V4央视",CCTV8
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-8-MD/G_CCTV-8-MD.m3u8
 
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV9" group-title="移动V4央视",CCTV9
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV9" group-title="移动V4央视",CCTV9
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-9-HD-265-8M/G_CCTV-9-HD-265-8M.m3u8
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV10" group-title="移动V4央视",CCTV10
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV10" group-title="移动V4央视",CCTV10
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-10-HD-265-8M/G_CCTV-10-HD-265-8M.m3u8
+
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV11" group-title="移动V4央视",CCTV11
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV11" group-title="移动V4央视",CCTV11
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
+
 
 
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV12" group-title="移动V4央视",CCTV12
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV12" group-title="移动V4央视",CCTV12
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-12-HD-265-8M/G_CCTV-12-HD-265-8M.m3u8
 
 
 
@@ -148,30 +104,17 @@ http://223.110.240.208:6610/gitv/live1/G_CCTV-12-HD-265-8M/G_CCTV-12-HD-265-8M.m
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/TVOD/3/224/3221228224/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV13" group-title="移动V4央视",CCTV13
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-13-HD-265-8M/G_CCTV-13-HD-265-8M.m3u8
-
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV14" group-title="移动V4央视",CCTV14
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221227656/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV14" group-title="移动V4央视",CCTV14
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8
 
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV15" group-title="移动V4央视",CCTV15
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV15" group-title="移动V4央视",CCTV15
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/cntv/live1/cctv-15/cctv-15.m3u8
 
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV16" group-title="移动V4央视",CCTV16
 #EXTVLCOPT:http-user-agent=DIYP
@@ -184,31 +127,12 @@ http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV16" group-title="移动V4央视",CCTV16
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
-
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV16" group-title="移动V4央视",CCTV16
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
-
-
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV16" group-title="移动V4央视",CCTV16
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV17" group-title="移动V4央视",CCTV17
 #EXTVLCOPT:http-user-agent=DIYP
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV8" group-title="移动V4央视",CCTV8K超高清
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8
 
 
 
@@ -223,10 +147,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTVLCOPT:http-referrer=http://iptv.diyp.site/
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://logo.diyp.site:49377/logo.php?CCTV4" group-title="移动V4央视",CCTV4K超高清
-#EXTVLCOPT:http-user-agent=DIYP
-#EXTVLCOPT:http-referrer=http://iptv.diyp.site/
-http://223.110.240.208:6610/gitv/live1/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
+
 
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="http://logo.diyp.site:49377/logo.php?安徽卫视" group-title="移动V4卫视",安徽卫视
 #EXTVLCOPT:http-user-agent=DIYP
