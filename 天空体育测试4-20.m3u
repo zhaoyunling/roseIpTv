@@ -1,0 +1,66 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+
+
+#EXTINF:0 tvg-id="051" tvg-name="SKY_Sport_1", Sky Sport 1
+plugin://plugin.video.sky.sport.now/?_=play&media_id=60&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="052" tvg-name="SKY_Sport_2", Sky Sport 2
+plugin://plugin.video.sky.sport.now/?_=play&media_id=61&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="053" tvg-name="SKY_Sport_3", Sky Sport 3
+plugin://plugin.video.sky.sport.now/?_=play&media_id=62&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="054" tvg-name="SKY_Sport_4", Sky Sport 4
+plugin://plugin.video.sky.sport.now/?_=play&media_id=63&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="055" tvg-name="SKY_Sport_5", Sky Sport 5
+plugin://plugin.video.sky.sport.now/?_=play&media_id=83&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="056" tvg-name="SKY_Sport_6", Sky Sport 6
+plugin://plugin.video.sky.sport.now/?_=play&media_id=84&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="057" tvg-name="SKY_Sport_7", Sky Sport 7
+plugin://plugin.video.sky.sport.now/?_=play&media_id=85&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="058" tvg-name="SKY_Sport_8", Sky Sport 8
+plugin://plugin.video.sky.sport.now/?_=play&media_id=86&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="059" tvg-name="SKY_Sport_9", Sky Sport 9
+plugin://plugin.video.sky.sport.now/?_=play&media_id=87&media_type=channel&_l=.pvr
+
+#EXTINF:0 tvg-id="050" tvg-name="SKY_Sport_News", Sky Sport News
+plugin://plugin.video.sky.sport.now/?_=play&media_id=88&media_type=channel&_l=.pvr
+
+
+#EXTINF:-1 tvg-name="Sky Sport 3 HD Deutschland" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/" group-title="Sports",[HD]sport 3
+https://stream1.freetv.fun/sport-3-1.m3u8
+#EXTINF:-1 tvg-name="Sky Sports HD 2  (DE)" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821142613189077_69.png" group-title="Generic",[BD]skysports
+https://stream1.freetv.fun/skysports-4.ctv
+#EXTINF:-1 tvg-name="Sky Sports HD 2  (DE)" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821142613189077_69.png" group-title="Generic",[BD]skysports
+https://stream1.freetv.fun/skysports-11.ctv
+#EXTINF:-1 tvg-name="Sky Sports HD 2  (DE)" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821142613189077_69.png" group-title="Generic",[BD]skysports
+https://stream1.freetv.fun/skysports-1.ctv
+#EXTINF:-1 tvg-name="Sky Sports HD 2  (DE)" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821142613189077_69.png" group-title="Generic",[BD]skysports
+https://stream1.freetv.fun/skysports-17.ctv
+#EXTINF:-1 tvg-name="Sky Sports HD 2  (DE)" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821142613189077_69.png" group-title="Generic",[BD]skysports[geo-blocked]
+https://stream1.freetv.fun/skysports-8.ctv
+
+#EXTINF:-1 tvg-name="Sky Sport Austria" tvg-id="" tvg-country="Austria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/09/04/large/20230904164015560294_43.jpg" group-title="Sports",[HD]sky sport austria 1
+https://stream1.freetv.fun/d210ccba16f792a315f217a528e0593f1e7fc6418745696318e7d7af6993bccc.ctv
+#EXTINF:-1 tvg-name="Sky Sport Austria" tvg-id="" tvg-country="Austria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/09/04/large/20230904164015560294_43.jpg" group-title="Sports",[HD]sport 1 austria
+https://stream1.freetv.fun/2ce87f16a5024d2bfc84b27791e30a111209cd7d8acd0011faf2fc56fff0ebc4.ctv
+
+
+
+#EXTINF:-1 tvg-name="Sky Sport F1 HD  (IT)" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821145109158787_71.png" group-title="Generic",[HD]sky sport uhd de
+https://stream1.freetv.fun/sky-sport-uhd-de-1.m3u8
+#EXTINF:-1 tvg-name="Sky Sports HD 1 (IT)" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821145147575861_16.jpg" group-title="Generic",[BD]skysports
+https://stream1.freetv.fun/skysports-2.ctv
+#EXTINF:-1 tvg-name="Sport Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415000118080279_93.png" group-title="Sports",[BD]sports italia[geo-blocked]
+https://stream1.freetv.fun/sports-italia-1.m3u8
+
+
+#EXTINF:-1 tvg-name="Sport Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415000118080279_93.png" group-title="Sports",[BD]sport italia live
+https://stream1.freetv.fun/sport-italia-live-1.m3u8
+#EXTINF:-1 tvg-name="SuperTennis TV" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232431306998_27.png" group-title="Sports",[BD]supertoons tv[geo-blocked]
+https://stream1.freetv.fun/supertoons-tv-2.m3u8
