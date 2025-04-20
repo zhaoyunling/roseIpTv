@@ -1322,8 +1322,7 @@ http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=081040171706199780
 http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=95a5f0d51706199864
 #EXTINF:-1 tvg-logo="" group-title="联通央卫备用" codec="h264" resolution="1280*720" response_time="157.36 ms",无锡经济
 http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=31414f601706199828
-#EXTINF:-1 tvg-logo="" group-title="网宿线路[IPv4]" codec="h264" resolution="1920*1080" response_time="4.96 ms",镇江2套
-http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/Gansu.png" group-title="电信央卫备用" codec="h264" resolution="1280*720" response_time="423.12 ms",甘肃卫视
 rtmp://livein.gstv.com.cn/49048r/y3nga4
 #EXTINF:-1 tvg-logo="" group-title="电信央卫备用" codec="h264" resolution="1280*720" response_time="421.46 ms",文化影视
@@ -1812,7 +1811,16 @@ http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="网宿线路[IPv4]" codec="h264" resolution="1920*1080" response_time="4.96 ms",镇江2套
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 tvg-logo="" group-title="网宿线路[IPv4]" codec="h264" resolution="1920*1080" response_time="2952.29 ms",广西国际
+https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+#EXTINF:-1 tvg-logo="" group-title="网宿线路[IPv4]" codec="h264" resolution="1920*1080" response_time="12.04 ms",洛阳文旅
+https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="网宿线路[IPv4]" codec="h264" resolution="1920*1080" response_time="20.92 ms",洛阳科教
+https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="网宿线路[IPv4]" codec="h264" resolution="1920*1080" response_time="2048.65 ms",洛阳综合
+https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 
 
 
