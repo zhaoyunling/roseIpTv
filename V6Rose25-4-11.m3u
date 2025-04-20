@@ -237,6 +237,240 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 http://cdn.132.us.kg/live/hoy/stream.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="61.0 ms",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="424.98 ms",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="65.11 ms",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="3840*2160" response_time="55.23 ms",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB2.png" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="65.73 ms",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB2.png" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="242.16 ms",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="48.65 ms",翡翠台北美版(TVB J1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="207.78 ms",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="215.68 ms",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="49.83 ms",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="50.94 ms",无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="63.51 ms",无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="61.11 ms",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="78.51 ms",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="57.67 ms",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="39.64 ms",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="56.43 ms",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="236.62 ms",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="251.34 ms",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="206.43 ms",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="54.0 ms",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="232.36 ms",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="218.43 ms",美亚电影
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="81.23 ms",重温经典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="215.07 ms",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="61.06 ms",RTHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="126.65 ms",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="54.74 ms",RTHK33
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="45.99 ms",八度空间
+https://cdn6.163189.xyz/live/8tv/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="57.96 ms",CH5
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="56.76 ms",CH8
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="47.89 ms",CHU
+https://cdn6.163189.xyz/live/chu/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="41.79 ms",翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="72.55 ms",华丽翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB4.png" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="42.65 ms",无线新闻台
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="75.76 ms",千禧经典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="49.35 ms",TVB娱乐新闻台
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/typd.png" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="53.82 ms",天映频道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="45.8 ms",Astro AEC
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="42.68 ms",Astro QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="33.45 ms",Astro欢喜台
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="42.09 ms",八度空间
+http://php.jdshipin.com/smt.php?id=TV8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="59.29 ms",华丽翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="49.65 ms",亚洲武侠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="65.15 ms",TVB娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="42.75 ms",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="33.9 ms",SET三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="37.58 ms",纬来精采HD
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="33.27 ms",音乐欣赏1
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/animalplanet.png" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="33.77 ms",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="18.43 ms",RTHK-33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="16.49 ms",RTHK-34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="198.25 ms",GTV八大综合台
+http://198.16.100.186:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="47.8 ms",AEC
+http://php.jdshipin.com:8880/smt.php?id=AEC
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="43.99 ms",華麗台 HD
+http://php.jdshipin.com:8880/smt.php?id=Wlt
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="42.88 ms",歡喜台 HD
+http://php.jdshipin.com:8880/smt.php?id=Huahee
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="49.83 ms",Astro QJ
+http://php.jdshipin.com:8880/smt.php?id=Quanjia
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="70.88 ms",TVB Jade
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="42.06 ms",TVB Entertainment
+http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="47.79 ms",TVB Classic
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="60.71 ms",愛奇藝
+http://php.jdshipin.com:8880/smt.php?id=Qiyi
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",民视HD
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",台视HD
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",CTV中视HD
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",CTS华视HD
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",纬来体育HD
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",纬来育乐HD
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",纬来日本HD
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",ELEVEN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",ELEVEN体育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="33.9 ms",番薯111
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/BLTV.png" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="32.34 ms",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/BLTV.png" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="103.33 ms",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="25.41 ms",大爱一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="22.85 ms",大爱二台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/shengming.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="33.49 ms",生命电视
+http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="17.25 ms",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="39.53 ms",无线新闻
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbxw
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="47.29 ms",翡翠台
+http://222.128.55.152:9080/live/gdfc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="37.33 ms",TVBS新闻
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="43.92 ms",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="65.69 ms",TVB翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="44.85 ms",TVB无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/Phoenix1.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="844.29 ms",凤凰中文台
+http://tvbox6.icu/tv/gdmzyd.php?id=4$梅州移动
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="95.31 ms",TVB翡翠台
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="46.64 ms",TVB星河
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="60.09 ms",TVB Plus
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="34.11 ms",大立TV
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/BLTV.png" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="109.63 ms",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="32.25 ms",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="27.51 ms",港台电视33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?$720P
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="23.86 ms",港台电视33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="18.16 ms",港台电视34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8?$720P
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="45.02 ms",港台电视34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="34.54 ms",港台电视35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8?$720P
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="29.82 ms",港台电视35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="152.54 ms",台湾-民视新闻台
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="55.64 ms",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$订阅源
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB2.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="342.65 ms",明珠台
+http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8$订阅源
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/EBC2.png" group-title="港澳备用" codec="h264" resolution="None*None" response_time="",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="483.78 ms",澳视澳门
+https://stream1.freetv.fun/ao-shi-ao-men-4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="37.5 ms",TVB无线星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="3840*2160" response_time="47.28 ms",TVB翡翠台 4K
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="514.79 ms",TVB J1
+https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="44.85 ms",台视新闻
+http://222.128.55.152:9080/live/ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="40.96 ms",中天新闻
+http://222.128.55.152:9080/live/fc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="40.98 ms",寰宇新闻
+http://222.128.55.152:9080/live/hy.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="4.93 ms",美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",MOMOTV
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="32.12 ms",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/LTV1.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="263.92 ms",龙华电影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="57.84 ms",港台电视31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="52.09 ms",港台电视32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="32.13 ms",HOY TV
+http://cdn.132.us.kg/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="14.29 ms",香港面包频道
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="7680*4320" response_time="164.0 ms",-8K北京纪实台
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+
+
 #EXTINF:-1 group-title="动画频道" tvg-logo="https://live.fanmingming.cn/tv/新动漫.png",新动漫
 http://nas.hssvm.com:8888/udp/225.1.1.216:5002
 #EXTINF:-1 group-title="动画频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png",浙江少儿
