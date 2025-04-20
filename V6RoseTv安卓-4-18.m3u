@@ -202,6 +202,585 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 http://cdn.132.us.kg/live/hoy/stream.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="61.0 ms",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="424.98 ms",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="65.11 ms",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="3840*2160" response_time="55.23 ms",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB2.png" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="65.73 ms",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB2.png" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="242.16 ms",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="48.65 ms",翡翠台北美版(TVB J1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="207.78 ms",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="215.68 ms",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="49.83 ms",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="50.94 ms",无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="63.51 ms",无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="61.11 ms",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="78.51 ms",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="57.67 ms",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="39.64 ms",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="56.43 ms",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="236.62 ms",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="251.34 ms",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="206.43 ms",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="54.0 ms",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="232.36 ms",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="218.43 ms",美亚电影
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="81.23 ms",重温经典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="215.07 ms",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="61.06 ms",RTHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="126.65 ms",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="54.74 ms",RTHK33
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="45.99 ms",八度空间
+https://cdn6.163189.xyz/live/8tv/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="57.96 ms",CH5
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="56.76 ms",CH8
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="47.89 ms",CHU
+https://cdn6.163189.xyz/live/chu/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="41.79 ms",翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="72.55 ms",华丽翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB4.png" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="42.65 ms",无线新闻台
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="75.76 ms",千禧经典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="49.35 ms",TVB娱乐新闻台
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/typd.png" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="53.82 ms",天映频道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="45.8 ms",Astro AEC
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="42.68 ms",Astro QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="33.45 ms",Astro欢喜台
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="42.09 ms",八度空间
+http://php.jdshipin.com/smt.php?id=TV8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="59.29 ms",华丽翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="49.65 ms",亚洲武侠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="65.15 ms",TVB娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="42.75 ms",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="33.9 ms",SET三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="37.58 ms",纬来精采HD
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="33.27 ms",音乐欣赏1
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/animalplanet.png" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="33.77 ms",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="18.43 ms",RTHK-33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="16.49 ms",RTHK-34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="198.25 ms",GTV八大综合台
+http://198.16.100.186:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="47.8 ms",AEC
+http://php.jdshipin.com:8880/smt.php?id=AEC
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="43.99 ms",華麗台 HD
+http://php.jdshipin.com:8880/smt.php?id=Wlt
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="42.88 ms",歡喜台 HD
+http://php.jdshipin.com:8880/smt.php?id=Huahee
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="49.83 ms",Astro QJ
+http://php.jdshipin.com:8880/smt.php?id=Quanjia
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="70.88 ms",TVB Jade
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="42.06 ms",TVB Entertainment
+http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="47.79 ms",TVB Classic
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="60.71 ms",愛奇藝
+http://php.jdshipin.com:8880/smt.php?id=Qiyi
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",民视HD
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",台视HD
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",CTV中视HD
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",CTS华视HD
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",纬来体育HD
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",纬来育乐HD
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",纬来日本HD
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",ELEVEN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",ELEVEN体育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="33.9 ms",番薯111
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/BLTV.png" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="32.34 ms",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/BLTV.png" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="103.33 ms",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="25.41 ms",大爱一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="22.85 ms",大爱二台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/shengming.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="33.49 ms",生命电视
+http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="17.25 ms",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="39.53 ms",无线新闻
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbxw
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="47.29 ms",翡翠台
+http://222.128.55.152:9080/live/gdfc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="37.33 ms",TVBS新闻
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="43.92 ms",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="65.69 ms",TVB翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="44.85 ms",TVB无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/Phoenix1.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="844.29 ms",凤凰中文台
+http://tvbox6.icu/tv/gdmzyd.php?id=4$梅州移动
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="95.31 ms",TVB翡翠台
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="46.64 ms",TVB星河
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="60.09 ms",TVB Plus
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="34.11 ms",大立TV
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/BLTV.png" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="109.63 ms",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="32.25 ms",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="27.51 ms",港台电视33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?$720P
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="23.86 ms",港台电视33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="18.16 ms",港台电视34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8?$720P
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="45.02 ms",港台电视34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="34.54 ms",港台电视35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8?$720P
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="29.82 ms",港台电视35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="152.54 ms",台湾-民视新闻台
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB1.png" group-title="港澳备用" codec="hevc" resolution="1920*1080" response_time="55.64 ms",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$订阅源
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/TVB2.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="342.65 ms",明珠台
+http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8$订阅源
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/EBC2.png" group-title="港澳备用" codec="h264" resolution="None*None" response_time="",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="483.78 ms",澳视澳门
+https://stream1.freetv.fun/ao-shi-ao-men-4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="1280*720" response_time="37.5 ms",TVB无线星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="3840*2160" response_time="47.28 ms",TVB翡翠台 4K
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="514.79 ms",TVB J1
+https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="44.85 ms",台视新闻
+http://222.128.55.152:9080/live/ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="40.96 ms",中天新闻
+http://222.128.55.152:9080/live/fc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="40.98 ms",寰宇新闻
+http://222.128.55.152:9080/live/hy.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="4.93 ms",美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="",MOMOTV
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="32.12 ms",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/LTV1.png" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="263.92 ms",龙华电影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="57.84 ms",港台电视31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="52.09 ms",港台电视32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1920*1080" response_time="32.13 ms",HOY TV
+http://cdn.132.us.kg/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="h264" resolution="1280*720" response_time="14.29 ms",香港面包频道
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
+#EXTINF:-1 tvg-logo="" group-title="港澳备用" codec="hevc" resolution="7680*4320" response_time="164.0 ms",-8K北京纪实台
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="21.91 ms",无线新闻台
+http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="hevc" resolution="1920*1080" response_time="189.4 ms",无线新闻
+http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="hevc" resolution="1920*1080" response_time="192.4 ms",凤凰卫视
+http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="hevc" resolution="1920*1080" response_time="42.74 ms",凤凰香港
+https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="hevc" resolution="1920*1080" response_time="31.31 ms",凤凰中文
+http://cdn.132.us.kg/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="hevc" resolution="1920*1080" response_time="194.85 ms",凤凰中文
+http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="37.03 ms",鳳凰資訊
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="41.45 ms",凤凰资讯HD
+http://60.178.149.51:4022/udp/233.50.200.192:5140
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="30.36 ms",凤凰资讯高清
+http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="17.65 ms",香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="32.79 ms",澳视澳门
+http://cdn.132.us.kg/live/asam/stream.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="53.05 ms",澳视澳门
+https://cdn.163189.xyz/live/asam/stream.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1440*1080" response_time="10.48 ms",澳亚卫视
+http://119.32.12.17:2901/udp/224.1.100.12:11111
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.55 ms",翡翠
+http://198.16.100.186:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="hevc" resolution="1280*720" response_time="192.62 ms",翡翠台
+http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="36.35 ms",华丽翡翠台
+http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="190.29 ms",TVBS
+http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="144.39 ms",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="hevc" resolution="1920*1080" response_time="187.23 ms",TVB J2
+http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="58.23 ms",TVB J1
+https://cdn3.163189.xyz/live/j1/stream.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="144.38 ms",TVBS HD
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="36.79 ms",TVBSNEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="33.03 ms",TVB星河
+http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="189.88 ms",TVBS新闻
+http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="192.24 ms",TVBS新闻
+http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="37.39 ms",Tvbs綜合
+http://122.117.71.103:8544/http/220.130.87.218:8081/hls/75/817/ch058.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="190.69 ms",東森LIVE
+http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="188.9 ms",東森LIVE
+http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="605.57 ms",东森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="188.09 ms",東森洋片
+http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="190.13 ms",東森電影
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="189.73 ms",东森戏剧
+http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="186.61 ms",东森戏剧
+http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="186.76 ms",东森洋片
+http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="187.25 ms",东森财经
+http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="190.32 ms",东森财经
+http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="31.32 ms",東森新聞
+http://122.117.71.103:8539/http/220.130.87.218:8081/hls/63/805/ch010.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="hevc" resolution="1920*1080" response_time="34.38 ms",東森幼幼
+http://122.117.71.103:8515/http/220.130.87.218:8081/hls/63/805/ch009.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="195.2 ms",东森电影
+http://198.16.100.186:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="193.72 ms",东森戏剧
+http://198.16.100.186:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="190.18 ms",东森综合
+http://198.16.100.186:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="187.83 ms",三立戏剧
+http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="35.89 ms",三立新聞
+http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="190.61 ms",三立台湾
+http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="190.58 ms",三立戏剧
+http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="189.97 ms",三立戏剧
+http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.11 ms",三立综合
+http://198.16.100.186:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="190.56 ms",三立都会
+http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="190.74 ms",三立戏剧
+http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="40.17 ms",三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="187.3 ms",纬来日本
+http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="33.99 ms",緯來育樂
+http://122.117.71.103:8561/http/220.130.87.218:8081/hls/68/810/ch030.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="30.36 ms",緯來日本
+http://122.117.71.103:8536/http/220.130.87.218:8081/hls/69/811/ch034.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="36.97 ms",纬来精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="192.32 ms",中天综合
+http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="191.01 ms",中天综合
+http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="191.6 ms",中天娱乐
+http://198.16.100.186:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="193.17 ms",中天综合
+http://198.16.100.186:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="193.37 ms",中天娱乐
+http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="186.05 ms",中天新聞HD
+http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5da22ad10e374c427fc90aed16f07478
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="188.49 ms",中天亚洲
+http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="525.2 ms",HBO 3
+http://stream.nmih.hu:7960/live.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="190.7 ms",HBO家庭
+http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="849.66 ms",HBO Plus SD
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="211.49 ms",HBO Xtreme SD
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="707.81 ms",HBO 2  DIRECTV
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="191.79 ms",HBO強檔鉅獻
+http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="185.49 ms",HBO原創鉅獻
+http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="188.45 ms",HBO原創鉅獻
+http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="192.35 ms",靖天国际台
+http://50.7.234.10:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="188.46 ms",靖天国际
+http://198.16.100.186:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="187.79 ms",靖天卡通
+http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="188.86 ms",靖天卡通
+http://198.16.100.186:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="32.64 ms",大爱二台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="26.53 ms",大爱
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="190.89 ms",大爱
+http://50.7.234.10:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.1 ms",大爱1
+http://198.16.100.186:8278/daai_twn/playlist.m3u8?tid=ME5E3594665135946651&ct=19249&tsum=1628ac38fd6a79879fccae39de8e845b
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="33.91 ms",大爱1
+https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="54.34 ms",大爱2
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="150.97 ms",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="188.08 ms",台视新闻
+http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="154.25 ms",台视新闻
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="160.93 ms",TW台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="144.73 ms",台视新闻台
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.28 ms",民视
+http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.35 ms",民视
+http://198.16.100.186:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="144.12 ms",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="153.84 ms",民视新闻HD
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="151.24 ms",民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="265.45 ms",民视
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="190.92 ms",华视
+http://198.16.100.186:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="265.4 ms",华视
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="192.78 ms",中视
+http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="190.1 ms",中视新闻
+http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.65 ms",中视新闻
+http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.17 ms",中视新闻
+http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.53 ms",中视
+http://198.16.100.186:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="hevc" resolution="1920*1080" response_time="33.74 ms",寰宇新聞
+http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="192.37 ms",寰宇新聞台
+http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2e4ba5060f39aa293606ab3341b4fcde
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="186.72 ms",非凡新闻
+http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="187.99 ms",非凡新闻
+http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="187.11 ms",非凡新闻
+http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="189.16 ms",非凡新闻
+http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="189.01 ms",非凡新闻
+http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="190.69 ms",国家地理
+http://198.16.100.186:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="187.71 ms",国家地理
+http://198.16.100.186:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="189.23 ms",国家地理
+http://50.7.234.10:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="145.96 ms",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="186.48 ms",民視新聞台
+http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9787063f7ed8e759418ccc1220dffe5f
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.89 ms",民视台湾台
+http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.84 ms",靖天卡通台
+http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.19 ms",靖天卡通台
+http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=ME5E1118588611185886&ct=19234&tsum=9c155f39f9a4dcbe438a21f39a33ce77
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="265.57 ms",龍華電影台
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="192.48 ms",TVBS欢乐
+http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="189.49 ms",TVBS歡樂台
+http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="153.53 ms",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="189.59 ms",TVBS
+http://198.16.100.186:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="188.67 ms",台視
+http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="144.67 ms",台視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8?$1920x1080
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="190.41 ms",东森财经新闻
+http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.4 ms",亚洲旅游台
+http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="188.51 ms",亚洲旅游台
+http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="264.25 ms",亞洲旅遊台
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="189.84 ms",亞洲旅遊台
+http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="521.12 ms",4K SKY SPORTS MAIN EVENT 1
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="237.81 ms",UK - Sky Sports Premier League UHD
+http://2otsfwsh.otttv.pw/iptv/S3YKA4S9YGN99U/555/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="231.72 ms",Sky Sports Arena
+http://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.71 ms",Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="406.7 ms",HBO 2 East (720p)
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="468.06 ms",HBO 2 East (720p)
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="211.28 ms",Discovery Channel
+http://38.96.178.201:80/live/Discovery/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="506.32 ms",UK - Discovery Channel
+https://30a-tv.com/feeds/vidaa/luxelife.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="468.45 ms",Sky Cinema Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="218.05 ms",Cartoon Network
+http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="292.57 ms",Cartoon Network
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="755.04 ms",Cartoon Network
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="266.46 ms",Cartoon Network
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="310.97 ms",SuperSport Premier League
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="25.77 ms",SuperSport Football+
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8?player=powa&checkedby:iptvcat.com
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="469.34 ms",Eurosport 2
+https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="152.96 ms",Now Premier Sports 1
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="212.63 ms",Golf Channel HD
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.75 ms",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="231.39 ms",MLB Network Strike Zone US
+http://56b50ada2d659.streamlock.net:1935/RadioBirikinaTV/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="294.83 ms",NBA TV
+http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="218.2 ms",NBA TV HD
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="214.32 ms",NBA TV HD
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.37 ms",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="22.75 ms",NFL RedZone US
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="624.36 ms",NETFLIX  WWE
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="196.99 ms",WILLOW CRICKET
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="217.78 ms",World Fishing Network (1080p)
+http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="884.75 ms",ESPN 1
+https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="218.01 ms",ESPN HD
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="217.99 ms",ESPN News
+http://38.96.178.201:80/live/ESPNews/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="273.8 ms",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="753.17 ms",UK - MUTV HD
+https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="191.43 ms",CBS Sports Network USA
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="288.34 ms",CBS Sports Network USA
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943&checkedby:iptvcat.com
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="190.0 ms",CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="188.52 ms",CNBC
+http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="189.64 ms",CNBC
+http://198.16.100.186:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="177.13 ms",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="148.29 ms",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="172.45 ms",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="48.6 ms",CNBC Indonesia 1
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="159.91 ms",Indonesia : CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697&checkedby:iptvcat.com
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="382.29 ms",Fox News Channel (720p)
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="187.34 ms",Fox News
+http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0a121c402150191cc1eb3e8135bbb56c
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="654.28 ms",FOX NEWS
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="hevc" resolution="1920*1080" response_time="218.38 ms",FOX News
+http://38.96.178.201:80/live/FOXNEWS/index.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1280*720" response_time="24.79 ms",Channel V6
+https://media.ksl.com/watchit/vod/41534/playlist.m3u8
+#EXTINF:-1 group-title="港澳测试[可能需梯][IPv4]" codec="h264" resolution="1920*1080" response_time="622.29 ms",Super Channel Vault
+https://servilive.com:3263/live/channel12live.m3u8
+
 
 #EXTINF:-1 group-title="动画频道" tvg-logo="https://live.fanmingming.cn/tv/新动漫.png",新动漫
 http://nas.hssvm.com:8888/udp/225.1.1.216:5002
