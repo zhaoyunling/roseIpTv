@@ -137,6 +137,68 @@ http://148.135.93.213/live.php?id=海南卫视
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视IPV4",大湾区卫视
 http://148.135.93.213/live.php?id=大湾区卫视
 
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" group-title="NewTV",黑莓电影
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="NewTV",黑莓动画
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="黑莓电竞" tvg-name="黑莓电竞" group-title="NewTV",黑莓电竞
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" group-title="NewTV",超级电影
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-name="NewTV超级电视剧" group-title="NewTV",NewTV超级电视剧
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-id="NewTV超级综艺" tvg-name="NewTV超级综艺" group-title="NewTV",NewTV超级综艺
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="NewTV超级体育" group-title="NewTV",NewTV超级体育
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="NewTV精品大剧" tvg-name="NewTV精品大剧" group-title="NewTV",NewTV精品大剧
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-id="NewTV精品纪录" tvg-name="NewTV精品纪录" group-title="NewTV",NewTV精品纪录
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" group-title="NewTV",NewTV精品体育
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" group-title="NewTV",NewTV金牌综艺
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-id="NewTV东北热剧" tvg-name="NewTV东北热剧" group-title="NewTV",NewTV东北热剧
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" group-title="NewTV",NewTV动作电影
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-name="NewTV家庭剧场" group-title="NewTV",NewTV家庭剧场
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-name="NewTV军旅剧场" group-title="NewTV",NewTV军旅剧场
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="NewTV古装剧场" tvg-name="NewTV古装剧场" group-title="NewTV",NewTV古装剧场
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-id="NewTV爱情喜剧" tvg-name="NewTV爱情喜剧" group-title="NewTV",NewTV爱情喜剧
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" group-title="NewTV",NewTV欢乐剧场
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-id="NewTV明星大片" tvg-name="NewTV明星大片" group-title="NewTV",NewTV明星大片
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="NewTV海外剧场" tvg-name="NewTV海外剧场" group-title="NewTV",NewTV海外剧场
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" group-title="NewTV",NewTV惊悚悬疑
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="NewTV军事评论" tvg-name="NewTV军事评论" group-title="NewTV",NewTV军事评论
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-name="NewTV怡伴健康" group-title="NewTV",NewTV怡伴健康
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-id="NewTV武搏世界" tvg-name="NewTV武搏世界" group-title="NewTV",NewTV武搏世界
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-id="NewTV中国功夫" tvg-name="NewTV中国功夫" group-title="NewTV",NewTV中国功夫
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-id="NewTV农业致富" tvg-name="NewTV农业致富" group-title="NewTV",NewTV农业致富
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-name="NewTV潮妈辣婆" group-title="NewTV",NewTV潮妈辣婆
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" group-title="NewTV",NewTV炫舞未来
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 tvg-id="电视剧" tvg-name="电视剧" group-title="NewTV",电视剧
+http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="综艺" tvg-name="综艺" group-title="NewTV",综艺
+http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="体育" tvg-name="体育" group-title="NewTV",体育
+http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8
 
 
 
@@ -265,68 +327,7 @@ http://39.134.65.141/PLTV/88888888/224/3221225925/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/Guangdong5.png" group-title="移动央卫备用" codec="h264" resolution="1920*1080" response_time="56.98 ms",广东体育
 http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv
 
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" group-title="NewTV",黑莓电影
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="NewTV",黑莓动画
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电竞" tvg-name="黑莓电竞" group-title="NewTV",黑莓电竞
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" group-title="NewTV",超级电影
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-name="NewTV超级电视剧" group-title="NewTV",NewTV超级电视剧
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="NewTV超级综艺" tvg-name="NewTV超级综艺" group-title="NewTV",NewTV超级综艺
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="NewTV超级体育" group-title="NewTV",NewTV超级体育
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="NewTV精品大剧" tvg-name="NewTV精品大剧" group-title="NewTV",NewTV精品大剧
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="NewTV精品纪录" tvg-name="NewTV精品纪录" group-title="NewTV",NewTV精品纪录
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" group-title="NewTV",NewTV精品体育
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" group-title="NewTV",NewTV金牌综艺
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="NewTV东北热剧" tvg-name="NewTV东北热剧" group-title="NewTV",NewTV东北热剧
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" group-title="NewTV",NewTV动作电影
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-name="NewTV家庭剧场" group-title="NewTV",NewTV家庭剧场
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-name="NewTV军旅剧场" group-title="NewTV",NewTV军旅剧场
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-id="NewTV古装剧场" tvg-name="NewTV古装剧场" group-title="NewTV",NewTV古装剧场
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-id="NewTV爱情喜剧" tvg-name="NewTV爱情喜剧" group-title="NewTV",NewTV爱情喜剧
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" group-title="NewTV",NewTV欢乐剧场
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="NewTV明星大片" tvg-name="NewTV明星大片" group-title="NewTV",NewTV明星大片
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="NewTV海外剧场" tvg-name="NewTV海外剧场" group-title="NewTV",NewTV海外剧场
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" group-title="NewTV",NewTV惊悚悬疑
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="NewTV军事评论" tvg-name="NewTV军事评论" group-title="NewTV",NewTV军事评论
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-name="NewTV怡伴健康" group-title="NewTV",NewTV怡伴健康
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-id="NewTV武搏世界" tvg-name="NewTV武搏世界" group-title="NewTV",NewTV武搏世界
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-id="NewTV中国功夫" tvg-name="NewTV中国功夫" group-title="NewTV",NewTV中国功夫
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-id="NewTV农业致富" tvg-name="NewTV农业致富" group-title="NewTV",NewTV农业致富
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-name="NewTV潮妈辣婆" group-title="NewTV",NewTV潮妈辣婆
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" group-title="NewTV",NewTV炫舞未来
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 tvg-id="电视剧" tvg-name="电视剧" group-title="NewTV",电视剧
-http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="综艺" tvg-name="综艺" group-title="NewTV",综艺
-http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="体育" tvg-name="体育" group-title="NewTV",体育
-http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8
+
 
 
 
@@ -11241,6 +11242,594 @@ https://stream1.freetv.fun/4e51681029dce6bb7cd56b78c8a7ac477aa552d0c135803f7bfe3
 https://stream1.freetv.fun/933911acd9ce751a31d2a1290205992ec885122b8e6be12adc0a8034d3383cf5.m3u8
 #EXTINF:-1 tvg-name="甄子丹影視" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/10/14/20161014131011501629_83.jpg" group-title="香港（Bob1018）-其它",[HD]甄子丹电影[geo-blocked]
 https://stream1.freetv.fun/dd36ce8639d3e960f752ae060b9918fc61e28ae5fc35aafba8a2d935a0fb954c.ctv
+
+
+
+#EXTINF:-1 group-title="香港频道5-7",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="香港频道5-7",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="香港频道5-7",凤凰中文2k
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+#EXTINF:-1 group-title="香港频道5-7",凤凰中文2k
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw2
+#EXTINF:-1 group-title="香港频道5-7",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="香港频道5-7",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="香港频道5-7",凤凰资讯2k
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+#EXTINF:-1 group-title="香港频道5-7",凤凰资讯2k
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx2
+#EXTINF:-1 group-title="香港频道5-7",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="香港频道5-7",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="香港频道5-7",凤凰香港2k
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 group-title="香港频道5-7",凤凰香港2k
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 group-title="香港频道5-7",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="香港频道5-7",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="香港频道5-7",翡翠台3k
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="香港频道5-7",翡翠台3k
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="香港频道5-7",翡翠1台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="香港频道5-7",翡翠1台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="香港频道5-7",翡翠2台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1 group-title="香港频道5-7",翡翠2台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali2
+#EXTINF:-1 group-title="香港频道5-7",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="香港频道5-7",TVB Plus
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="香港频道5-7",TVB J2
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="香港频道5-7",TVB J2
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="香港频道5-7",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 group-title="香港频道5-7",明珠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
+#EXTINF:-1 group-title="香港频道5-7",明珠台2k
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 group-title="香港频道5-7",明珠台2k
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 group-title="香港频道5-7",翡翠综合台
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="香港频道5-7",翡翠综合台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="香港频道5-7",TVB新闻
+http://php.jdshipin.com
+#EXTINF:-1 group-title="香港频道5-7",TVB新闻
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 group-title="香港频道5-7",无线新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 group-title="香港频道5-7",无线新闻台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 group-title="香港频道5-7",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+#EXTINF:-1 group-title="香港频道5-7",TVB星河
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxh
+#EXTINF:-1 group-title="香港频道5-7",星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="香港频道5-7",星河
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="香港频道5-7",TVB千禧经典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 group-title="香港频道5-7",TVB千禧经典台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 group-title="香港频道5-7",美亚电影
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="香港频道5-7",美亚电影
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="香港频道5-7",亚洲武侠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 group-title="香港频道5-7",亚洲武侠
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 group-title="香港频道5-7",TVB娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 group-title="香港频道5-7",TVB娱乐新闻台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 group-title="香港频道5-7",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="香港频道5-7",VIUTV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="香港频道5-7",VIUTV2k
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 group-title="香港频道5-7",VIUTV2k
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 group-title="香港频道5-7",HOY77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 group-title="香港频道5-7",HOY77
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 group-title="香港频道5-7",HOY77 2k
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="香港频道5-7",HOY77 2k
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="香港频道5-7",星空卫视
+http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="香港频道5-7",重温经典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 group-title="香港频道5-7",重温经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 group-title="香港频道5-7",香港31台
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="香港频道5-7",香港31台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="香港频道5-7",香港32台
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="香港频道5-7",香港32台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="香港频道5-7",澳视卫星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="香港频道5-7",澳视卫星
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="香港频道5-7",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 group-title="香港频道5-7",澳视澳门
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
+#EXTINF:-1 group-title="香港频道5-7",astro Ria
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+#EXTINF:-1 group-title="香港频道5-7",astro Ria
+http://php.jdshipin.com/TVOD/iptv.php?id=aod
+#EXTINF:-1 group-title="香港频道5-7",星空卫视
+http://php.jdshipin.com/TVOD/iptv.php?id=xkws
+#EXTINF:-1 group-title="香港频道5-7",now爆谷台
+http://php.jdshipin.com/TVOD/iptv.php?id=bgt
+#EXTINF:-1 group-title="香港频道5-7",Now星影台
+http://php.jdshipin.com/TVOD/iptv.php?id=xyt
+#EXTINF:-1 group-title="香港频道5-7",香港33台
+http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港频道5-7",香港34台
+http://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港频道5-7",香港35台
+http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港频道5-7",翡翠台
+http://8hb85846je10.vicp.fun:8001/bysid/1
+#EXTINF:-1 group-title="香港频道5-7",ViuTVSIX
+http://8hb85846je10.vicp.fun:8001/bysid/96.m3u8
+#EXTINF:-1 group-title="香港频道5-7",ViuTV
+http://8hb85846je10.vicp.fun:8001/bysid/99.m3u8
+#EXTINF:-1 group-title="香港频道5-7",明珠台
+http://8hb85846je10.vicp.fun:5000/bysid/2.m3u8
+#EXTINF:-1 group-title="香港频道5-7",TVB Plus
+http://8hb85846je10.vicp.fun:5000/bysid/82.m3u8
+#EXTINF:-1 group-title="香港频道5-7",无线新闻台
+http://8hb85846je10.vicp.fun:5000/bysid/83.m3u8
+#EXTINF:-1 group-title="香港频道5-7",凤凰香港
+http://8hb85846je10.vicp.fun:5000/bysid/85.m3u8
+#EXTINF:-1 group-title="香港频道5-7",香港卫视
+https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="香港频道5-7",HOY76
+http://beishan008.asuscomm.com:8891/bysid/76.m3u8
+#EXTINF:-1 group-title="香港频道5-7",HOY77
+http://beishan008.asuscomm.com:8891/bysid/77.m3u8
+#EXTINF:-1 group-title="香港频道5-7",HOY78
+http://beishan008.asuscomm.com:8891/bysid/78.m3u8
+#EXTINF:-1 group-title="TL频道5-7",翡翠频道
+http://go1.bkpcp.top/tl/null
+#EXTINF:-1 group-title="TL频道5-7",无线新闻频道
+http://go1.bkpcp.top/tl/null-11
+#EXTINF:-1 group-title="TL频道5-7",明珠频道
+http://go1.bkpcp.top/tl/null-12
+#EXTINF:-1 group-title="TL频道5-7",星河频道
+http://go1.bkpcp.top/tl/null-7
+#EXTINF:-1 group-title="TL频道5-7",popc频道
+http://go1.bkpcp.top/tl/popc
+#EXTINF:-1 group-title="TL频道5-7",天映经典频道
+http://go1.bkpcp.top/tl/null-1
+#EXTINF:-1 group-title="TL频道5-7",美亚电影频道
+http://go1.bkpcp.top/tl/null-5
+#EXTINF:-1 group-title="TL频道5-7",黄金翡翠频道
+http://go1.bkpcp.top/tl/null-2
+#EXTINF:-1 group-title="TL频道5-7",千禧经典频道
+http://go1.bkpcp.top/tl/null-3
+#EXTINF:-1 group-title="TL频道5-7",华剧频道
+http://go1.bkpcp.top/tl/null-4
+#EXTINF:-1 group-title="TL频道5-7",中国电影频道
+http://go1.bkpcp.top/tl/null-6
+#EXTINF:-1 group-title="TL频道5-7",黄金华剧频道
+http://go1.bkpcp.top/tl/null-9
+#EXTINF:-1 group-title="TL频道5-7",粤片频道
+http://go1.bkpcp.top/tl/null-10
+#EXTINF:-1 group-title="TL频道5-7",亚剧频道
+http://go1.bkpcp.top/tl/null-13
+#EXTINF:-1 group-title="TL频道5-7",娱乐频道
+http://go1.bkpcp.top/tl/null-14
+#EXTINF:-1 group-title="TL频道5-7",戏曲频道
+http://go1.bkpcp.top/tl/null-15
+#EXTINF:-1 group-title="SMT频道5-7",凤凰中文
+http://php.jdshipin.com/smt.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="SMT频道5-7",凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="SMT频道5-7",翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 group-title="SMT频道5-7",TVB翡翠台
+http://php.jdshipin.com/smt.php?id=Tvbjade
+#EXTINF:-1 group-title="SMT频道5-7",翡翠台华丽
+http://php.jdshipin.com/smt.php?id=Wlt
+#EXTINF:-1 group-title="SMT频道5-7",J2台
+http://php.jdshipin.com/smt.php?id=j2_twn
+#EXTINF:-1 group-title="SMT频道5-7",明珠台
+http://php.jdshipin.com/smt.php?id=pearl_twn
+#EXTINF:-1 group-title="SMT频道5-7",无线新闻台
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 group-title="SMT频道5-7",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=tvbxh
+#EXTINF:-1 group-title="SMT频道5-7",TVB星河
+http://php.jdshipin.com/smt.php?id=tvbxh
+#EXTINF:-1 group-title="SMT频道5-7",星河
+http://php.jdshipin.com/smt.php?id=Xinhe
+#EXTINF:-1 group-title="SMT频道5-7",TVB千禧经典台
+http://php.jdshipin.com/smt.php?id=Tvbclassic
+#EXTINF:-1 group-title="SMT频道5-7",TVB娱乐新闻台
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
+#EXTINF:-1 group-title="SMT频道5-7",美亚电影
+http://php.jdshipin.com/smt.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="SMT频道5-7",天映频道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 group-title="SMT频道5-7",天映经典
+http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1 group-title="SMT频道5-7",VIUTV
+http://php.jdshipin.com/smt.php?id=viu1_twn
+#EXTINF:-1 group-title="SMT频道5-7",VIUTV6
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 group-title="SMT频道5-7",Astro AOD
+http://php.jdshipin.com/smt.php?id=Aodhd
+#EXTINF:-1 group-title="SMT频道5-7",Astro AEC
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 group-title="SMT频道5-7",Astro QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 group-title="SMT频道5-7",Astro欢喜台
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 group-title="SMT频道5-7",爱奇艺
+http://php.jdshipin.com/smt.php?id=Qiyi
+#EXTINF:-1 group-title="SMT频道5-7",八度空间
+http://php.jdshipin.com/smt.php?id=TV8
+#EXTINF:-1 group-title="cdn368频道5-7",凤凰中文
+https://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",翡翠台
+https://cdn.163189.xyz/live/fct4k/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",Plus
+https://cdn.163189.xyz/live/tvbp/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",viutv
+https://cdn.163189.xyz/live/viu/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",rthk31
+https://cdn.163189.xyz/live/rthk31/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",rthk32
+http://cdn.132.us.kg/live/rthk32/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",澳视澳门
+https://cdn.163189.xyz/live/asam/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",凤凰资讯
+https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",凤凰香港
+https://cdn3.163189.xyz/live/fhhk/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",翡翠台
+https://cdn3.163189.xyz/live/fct/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",娱乐新闻台
+https://cdn3.163189.xyz/live/j1/stream.m3u8c
+#EXTINF:-1 group-title="cdn368频道5-7",HOY77
+https://cdn3.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",重温经典
+https://cdn3.163189.xyz/live/cwjd/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",TVBJ1
+https://cdn6.163189.xyz/live/j1/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",新CH5
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",新CH8
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",新CHU
+https://cdn6.163189.xyz/live/chu/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",八度空间
+https://cdn6.163189.xyz/live/8tv/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",龙华偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",龙华戏剧
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",龙华日韩
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",龙华卡通
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+#EXTINF:-1 group-title="cdn368频道5-7",龙华经典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="台湾频道5-7",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="台湾频道5-7",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="台湾频道5-7",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="台湾频道5-7",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="台湾频道5-7",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="台湾频道5-7",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="台湾频道5-7",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="台湾频道5-7",DAZN体育1台
+rtmp://60.248.77.83/sat/tv731
+#EXTINF:-1 group-title="台湾频道5-7",DAZN体育2台
+rtmp://60.248.77.83/sat/tv741
+#EXTINF:-1 group-title="台湾频道5-7",MOMOTV
+rtmp://60.248.77.83/sat/tv761
+#EXTINF:-1 group-title="台湾频道5-7",DAZN体育3台
+rtmp://60.248.77.83/sat/md011
+#EXTINF:-1 group-title="台湾频道5-7",ELTA体育2台
+rtmp://60.248.77.83/sat/md021
+#EXTINF:-1 group-title="台湾频道5-7",台视
+http://122.117.71.103:8504/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",探索频道
+http://122.117.71.103:8510/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",东森幼幼
+http://122.117.71.103:8515/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",龙华卡通
+http://122.117.71.103:8516/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",纬来综合
+http://122.117.71.103:8517/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",三立台湾
+http://122.117.71.103:8520/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",中天娱乐
+http://122.117.71.103:8526/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",纬来戏剧
+http://122.117.71.103:8532/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",龙华戏剧
+http://122.117.71.103:8533/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",TVBS欢乐
+http://122.117.71.103:8544/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",中天新闻
+http://122.117.71.103:8540/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",TVB新闻台
+http://122.117.71.103:8543/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",纬来电影
+http://122.117.71.103:8554/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",龙华电影
+http://122.117.71.103:8555/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",HBO
+http://122.117.71.103:8556/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",AXN
+http://122.117.71.103:8557/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",CINEMAX
+http://122.117.71.103:8558/http.m3u8
+#EXTINF:-1 group-title="台湾频道5-7",AMC
+http://122.117.71.103:8559/http.m3u8
+#EXTINF:-1 group-title="台湾198频道5-7",民视
+http://198.16.100.186:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+#EXTINF:-1 group-title="台湾198频道5-7",中视
+http://198.16.100.186:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
+#EXTINF:-1 group-title="台湾198频道5-7",公视
+http://198.16.100.186:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
+#EXTINF:-1 group-title="台湾198频道5-7",博斯运动1
+http://198.16.100.186:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
+#EXTINF:-1 group-title="台湾198频道5-7",美亚电影
+http://198.16.100.186:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+#EXTINF:-1 group-title="台湾198频道5-7",美亚电影备
+http://198.16.100.186:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+#EXTINF:-1 group-title="台湾198频道5-7",民视新闻
+http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
+#EXTINF:-1 group-title="台湾198频道5-7",八大第一
+http://198.16.100.186:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+#EXTINF:-1 group-title="台湾198频道5-7",八大综合
+http://198.16.100.186:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1 group-title="台湾198频道5-7",东森电影
+http://198.16.100.186:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+#EXTINF:-1 group-title="台湾198频道5-7",东森戏剧
+http://198.16.100.186:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+#EXTINF:-1 group-title="台湾198频道5-7",东森综合
+http://198.16.100.186:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+#EXTINF:-1 group-title="台湾198频道5-7",国家地理
+http://198.16.100.186:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
+#EXTINF:-1 group-title="台湾198频道5-7",龙华偶像
+http://198.16.100.186:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+#EXTINF:-1 group-title="台湾198频道5-7",龙华戏剧
+http://198.16.100.186:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+#EXTINF:-1 group-title="台湾198频道5-7",三立台湾
+http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 group-title="台湾198频道5-7",三立戏剧
+http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
+#EXTINF:-1 group-title="台湾198频道5-7",TVBS欢乐
+http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+#EXTINF:-1 group-title="台湾198频道5-7",AXNTAIWAN
+http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+#EXTINF:-1 group-title="台湾198频道5-7",ONE
+http://198.16.100.186:8278/One/playlist.m3u8?tid=MC4C3559816135598161&ct=19249&tsum=dce7930990cd11c5385de1298a06c226
+#EXTINF:-1 group-title="台湾198频道5-7",WWE
+http://198.16.100.186:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
+#EXTINF:-1 group-title="台湾198频道5-7",地理野生动物
+http://198.16.100.186:8278/Natgeowild/playlist.m3u8?tid=MCEC8162047281620472&ct=19249&tsum=903a62e36d9cd6c67654b4e2ca6bcbd5
+#EXTINF:-1 group-title="台湾198频道5-7",动物星球1
+http://198.16.100.186:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
+#EXTINF:-1 group-title="台湾198频道5-7",博斯高球1
+http://198.16.100.186:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+#EXTINF:-1 group-title="台湾198频道5-7",博斯高球2
+http://198.16.100.186:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+#EXTINF:-1 group-title="台湾198频道5-7",博斯运动2
+http://198.16.100.186:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+#EXTINF:-1 group-title="台湾198频道5-7",非凡新闻
+http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+#EXTINF:-1 group-title="台湾198频道5-7",国家地理
+http://198.16.100.186:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
+#EXTINF:-1 group-title="台湾198频道5-7",靖天国际
+http://198.16.100.186:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+#EXTINF:-1 group-title="台湾198频道5-7",龙华电影
+http://198.16.100.186:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+#EXTINF:-1 group-title="台湾198频道5-7",动物星球
+http://198.16.100.186:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+#EXTINF:-1 group-title="台湾198频道5-7",三立戏剧
+http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+#EXTINF:-1 group-title="中港台♥频道5-7",CCTV4
+http://live4play.uk/livehttpplay?channel_id=10128
+#EXTINF:-1 group-title="中港台♥频道5-7",大湾区卫视
+http://live4play.uk/livehttpplay?channel_id=20083
+#EXTINF:-1 group-title="中港台♥频道5-7",广东影视
+http://live4play.uk/livehttpplay?channel_id=20145
+#EXTINF:-1 group-title="中港台♥频道5-7",凤凰中文
+http://live4play.uk/livehttpplay?channel_id=20065
+#EXTINF:-1 group-title="中港台♥频道5-7",凤凰资讯
+http://live4play.uk/livehttpplay?channel_id=20066
+#EXTINF:-1 group-title="中港台♥频道5-7",凤凰香港
+http://live4play.uk/livehttpplay?channel_id=20067
+#EXTINF:-1 group-title="中港台♥频道5-7",TVB星河
+http://live4play.uk/livehttpplay?channel_id=20070
+#EXTINF:-1 group-title="中港台♥频道5-7",天映频道
+http://live4play.uk/livehttpplay?channel_id=10130
+#EXTINF:-1 group-title="中港台♥频道5-7",天映经典
+http://live4play.uk/livehttpplay?channel_id=20063
+#EXTINF:-1 group-title="中港台♥频道5-7",有线新闻
+http://live4play.uk/livehttpplay?channel_id=20191
+#EXTINF:-1 group-title="中港台♥频道5-7",美亚电影
+http://live4play.uk/livehttpplay?channel_id=20197
+#EXTINF:-1 group-title="中港台♥频道5-7",民视
+http://live4play.uk/livehttpplay?channel_id=20074
+#EXTINF:-1 group-title="中港台♥频道5-7",台视
+http://live4play.uk/livehttpplay?channel_id=20076
+#EXTINF:-1 group-title="中港台♥频道5-7",华视
+http://live4play.uk/livehttpplay?channel_id=20086
+#EXTINF:-1 group-title="中港台♥频道5-7",公视
+http://live4play.uk/livehttpplay?channel_id=20087
+#EXTINF:-1 group-title="中港台♥频道5-7",中视
+http://live4play.uk/livehttpplay?channel_id=20088
+#EXTINF:-1 group-title="中港台♥频道5-7",FGM电影
+http://live4play.uk/livehttpplay?channel_id=10123
+#EXTINF:-1 group-title="中港台♥频道5-7",CVTCHSNY电影
+http://live4play.uk/livehttpplay?channel_id=10127
+#EXTINF:-1 group-title="中港台♥频道5-7",CINEMAWORLD电影
+http://live4play.uk/livehttpplay?channel_id=20047
+#EXTINF:-1 group-title="中港台♥频道5-7",好莱坞电影
+http://live4play.uk/livehttpplay?channel_id=20062
+#EXTINF:-1 group-title="中港台♥频道5-7",壹电影
+http://live4play.uk/livehttpplay?channel_id=20108
+#EXTINF:-1 group-title="中港台♥频道5-7",华纳电影
+http://live4play.uk/livehttpplay?channel_id=20112
+#EXTINF:-1 group-title="中港台♥频道5-7",龙祥时代
+http://live4play.uk/livehttpplay?channel_id=20114
+#EXTINF:-1 group-title="中港台♥频道5-7",HBO强档
+http://live4play.uk/livehttpplay?channel_id=20091
+#EXTINF:-1 group-title="中港台♥频道5-7",HBO家㝚
+http://live4play.uk/livehttpplay?channel_id=20092
+#EXTINF:-1 group-title="中港台♥频道5-7",HBO
+http://live4play.uk/livehttpplay?channel_id=20093
+#EXTINF:-1 group-title="中港台♥频道5-7",三立戏剧台
+http://live4play.uk/livehttpplay?channel_id=10125
+#EXTINF:-1 group-title="中港台♥频道5-7",三立新闻
+http://live4play.uk/livehttpplay?channel_id=10126
+#EXTINF:-1 group-title="中港台♥频道5-7",三立都会
+http://live4play.uk/livehttpplay?channel_id=20100
+#EXTINF:-1 group-title="中港台♥频道5-7",龙华电影
+http://live4play.uk/livehttpplay?channel_id=10129
+#EXTINF:-1 group-title="中港台♥频道5-7",龙华偶像
+http://live4play.uk/livehttpplay?channel_id=20023
+#EXTINF:-1 group-title="中港台♥频道5-7",龙华日韩
+http://live4play.uk/livehttpplay?channel_id=20081
+#EXTINF:-1 group-title="中港台♥频道5-7",龙华洋片
+http://live4play.uk/livehttpplay?channel_id=20090
+#EXTINF:-1 group-title="中港台♥频道5-7",博斯运动1
+http://live4play.uk/livehttpplay?channel_id=10131
+#EXTINF:-1 group-title="中港台♥频道5-7",博斯高球1
+http://live4play.uk/livehttpplay?channel_id=20103
+#EXTINF:-1 group-title="中港台♥频道5-7",博斯高球2
+http://live4play.uk/livehttpplay?channel_id=20117
+#EXTINF:-1 group-title="中港台♥频道5-7",新M8
+http://live4play.uk/livehttpplay?channel_id=10132
+#EXTINF:-1 group-title="中港台♥频道5-7",?
+http://live4play.uk/livehttpplay?channel_id=10138
+#EXTINF:-1 group-title="中港台♥频道5-7",壹新闻
+http://live4play.uk/livehttpplay?channel_id=20028
+#EXTINF:-1 group-title="中港台♥频道5-7",大爱
+http://live4play.uk/livehttpplay?channel_id=20032
+#EXTINF:-1 group-title="中港台♥频道5-7",年代新闻
+http://live4play.uk/livehttpplay?channel_id=20033
+#EXTINF:-1 group-title="中港台♥频道5-7",非凡新闻
+http://live4play.uk/livehttpplay?channel_id=20034
+#EXTINF:-1 group-title="中港台♥频道5-7",国家地理
+http://live4play.uk/livehttpplay?channel_id=20037
+#EXTINF:-1 group-title="中港台♥频道5-7",Now新闻
+http://live4play.uk/livehttpplay?channel_id=20041
+#EXTINF:-1 group-title="中港台♥频道5-7",今日新闻
+http://live4play.uk/livehttpplay?channel_id=20043
+#EXTINF:-1 group-title="中港台♥频道5-7",BBC地球
+http://live4play.uk/livehttpplay?channel_id=20044
+#EXTINF:-1 group-title="中港台♥频道5-7",cn卡通频道
+http://live4play.uk/livehttpplay?channel_id=20048
+#EXTINF:-1 group-title="中港台♥频道5-7",八大精彩
+http://live4play.uk/livehttpplay?channel_id=20052
+#EXTINF:-1 group-title="中港台♥频道5-7",八大综合
+http://live4play.uk/livehttpplay?channel_id=20068
+#EXTINF:-1 group-title="中港台♥频道5-7",八大娱乐
+http://live4play.uk/livehttpplay?channel_id=20071
+#EXTINF:-1 group-title="中港台♥频道5-7",八大第一
+http://live4play.uk/livehttpplay?channel_id=20073
+#EXTINF:-1 group-title="中港台♥频道5-7",五星体育
+http://live4play.uk/livehttpplay?channel_id=20060
+#EXTINF:-1 group-title="中港台♥频道5-7",中天综合
+http://live4play.uk/livehttpplay?channel_id=20064
+#EXTINF:-1 group-title="中港台♥频道5-7",中天娱乐
+http://live4play.uk/livehttpplay?channel_id=20079
+#EXTINF:-1 group-title="中港台♥频道5-7",东森戏剧
+http://live4play.uk/livehttpplay?channel_id=20072
+#EXTINF:-1 group-title="中港台♥频道5-7",东森电影
+http://live4play.uk/livehttpplay?channel_id=20077
+#EXTINF:-1 group-title="中港台♥频道5-7",东森财经
+http://live4play.uk/livehttpplay?channel_id=20078
+#EXTINF:-1 group-title="中港台♥频道5-7",东森洋片
+http://live4play.uk/livehttpplay?channel_id=20080
+#EXTINF:-1 group-title="中港台♥频道5-7",东森新闻
+http://live4play.uk/livehttpplay?channel_id=20082
+#EXTINF:-1 group-title="中港台♥频道5-7",东森综合
+http://live4play.uk/livehttpplay?channel_id=20104
+#EXTINF:-1 group-title="中港台♥频道5-7",TVBS
+http://live4play.uk/livehttpplay?channel_id=20085
+#EXTINF:-1 group-title="中港台♥频道5-7",TVBS欢乐
+http://live4play.uk/livehttpplay?channel_id=20105
+#EXTINF:-1 group-title="中港台♥频道5-7",TVBS精彩
+http://live4play.uk/livehttpplay?channel_id=20136
+#EXTINF:-1 group-title="中港台♥频道5-7",NICKELODEON卡通
+http://live4play.uk/livehttpplay?channel_id=20089
+#EXTINF:-1 group-title="中港台♥频道5-7",民视新闻台
+http://live4play.uk/livehttpplay?channel_id=20097
+#EXTINF:-1 group-title="中港台♥频道5-7",动物星球
+http://live4play.uk/livehttpplay?channel_id=20106
+#EXTINF:-1 group-title="中港台♥频道5-7",ELTA体育1台
+http://live4play.uk/livehttpplay?channel_id=20129
+#EXTINF:-1 group-title="中港台♥频道5-7",ELTA体育2台
+http://live4play.uk/livehttpplay?channel_id=20107
+#EXTINF:-1 group-title="中港台♥频道5-7",探索频道
+http://live4play.uk/livehttpplay?channel_id=20110
+#EXTINF:-1 group-title="中港台♥频道5-7",探索亚洲
+http://live4play.uk/livehttpplay?channel_id=20113
+#EXTINF:-1 group-title="中港台♥频道5-7",探索科学
+http://live4play.uk/livehttpplay?channel_id=20115
+#EXTINF:-1 group-title="中港台♥频道5-7",采昌
+http://live4play.uk/livehttpplay?channel_id=20141
+#EXTINF:-1 group-title="中港台♥频道5-7",国兴卫视
+http://live4play.uk/livehttpplay?channel_id=20164
+#EXTINF:-1 group-title="中港台♥频道5-7",纬来体育
+http://live4play.uk/livehttpplay?channel_id=20120
+#EXTINF:-1 group-title="中港台♥频道5-7",纬来电影
+http://live4play.uk/livehttpplay?channel_id=20199
+#EXTINF:-1 group-title="中港台♥频道5-7",纬来戏剧
+http://live4play.uk/livehttpplay?channel_id=20200
+#EXTINF:-1 group-title="中港台♥频道5-7",纬来综合
+http://live4play.uk/livehttpplay?channel_id=20201
+#EXTINF:-1 group-title="中港台♥频道5-7",纬来育乐
+http://live4play.uk/livehttpplay?channel_id=20202
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="LOVENATURE4K" tvg-name="LOVENATURE4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="4K欣赏",Love Nature 4K「自然」
