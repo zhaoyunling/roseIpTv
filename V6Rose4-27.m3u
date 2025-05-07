@@ -265,6 +265,70 @@ http://39.134.65.141/PLTV/88888888/224/3221225925/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/Guangdong5.png" group-title="移动央卫备用" codec="h264" resolution="1920*1080" response_time="56.98 ms",广东体育
 http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv
 
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" group-title="NewTV",黑莓电影
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="NewTV",黑莓动画
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="黑莓电竞" tvg-name="黑莓电竞" group-title="NewTV",黑莓电竞
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" group-title="NewTV",超级电影
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-name="NewTV超级电视剧" group-title="NewTV",NewTV超级电视剧
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-id="NewTV超级综艺" tvg-name="NewTV超级综艺" group-title="NewTV",NewTV超级综艺
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="NewTV超级体育" group-title="NewTV",NewTV超级体育
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="NewTV精品大剧" tvg-name="NewTV精品大剧" group-title="NewTV",NewTV精品大剧
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-id="NewTV精品纪录" tvg-name="NewTV精品纪录" group-title="NewTV",NewTV精品纪录
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" group-title="NewTV",NewTV精品体育
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" group-title="NewTV",NewTV金牌综艺
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-id="NewTV东北热剧" tvg-name="NewTV东北热剧" group-title="NewTV",NewTV东北热剧
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" group-title="NewTV",NewTV动作电影
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-name="NewTV家庭剧场" group-title="NewTV",NewTV家庭剧场
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-name="NewTV军旅剧场" group-title="NewTV",NewTV军旅剧场
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="NewTV古装剧场" tvg-name="NewTV古装剧场" group-title="NewTV",NewTV古装剧场
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-id="NewTV爱情喜剧" tvg-name="NewTV爱情喜剧" group-title="NewTV",NewTV爱情喜剧
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" group-title="NewTV",NewTV欢乐剧场
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-id="NewTV明星大片" tvg-name="NewTV明星大片" group-title="NewTV",NewTV明星大片
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="NewTV海外剧场" tvg-name="NewTV海外剧场" group-title="NewTV",NewTV海外剧场
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" group-title="NewTV",NewTV惊悚悬疑
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="NewTV军事评论" tvg-name="NewTV军事评论" group-title="NewTV",NewTV军事评论
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-name="NewTV怡伴健康" group-title="NewTV",NewTV怡伴健康
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-id="NewTV武搏世界" tvg-name="NewTV武搏世界" group-title="NewTV",NewTV武搏世界
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-id="NewTV中国功夫" tvg-name="NewTV中国功夫" group-title="NewTV",NewTV中国功夫
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-id="NewTV农业致富" tvg-name="NewTV农业致富" group-title="NewTV",NewTV农业致富
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-name="NewTV潮妈辣婆" group-title="NewTV",NewTV潮妈辣婆
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" group-title="NewTV",NewTV炫舞未来
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 tvg-id="电视剧" tvg-name="电视剧" group-title="NewTV",电视剧
+http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="综艺" tvg-name="综艺" group-title="NewTV",综艺
+http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="体育" tvg-name="体育" group-title="NewTV",体育
+http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.iptv-search.com/static/app/channellogo/img/CCTV1.png" group-title="电信央卫备用" codec="h264" resolution="1920*1080" response_time="123.88 ms",CCTV1
 http://xiaoya.crccxw.top:35455/gaoma/cctv1.m3u8
