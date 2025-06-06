@@ -21,14 +21,13 @@ http://117.27.190.42:85/tsfile/live/live_23300_1_11094955.ts?key=txiptv&key2=110
 http://117.27.190.42:85/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-name="泉州新闻3"  group-title="泉州新闻",泉州新闻3
-http://vds.91kds.cn/live1/fjqztv.m3u8?id=fjqztv1&app=com.canghaitv.tvbox&version=1.0.1&mac=fu:ck:92:92:ff&nwtime=1749211683&sign=196c55e2aa46e42eaebea695c14c17e7&ev=20240918
+http://vds.91kds.cn/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTINF:-1 tvg-name="泉州新闻5"  group-title="泉州新闻",泉州新闻5测试
 https://8.218.63.65:88/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-name="泉州新闻6"  group-title="泉州新闻",泉州新闻6测试
-https://8.218.63.65:88/http://tvapius.canghaitv.com/api/diyp.php?ch=%E6%B3%89%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&date=2025-06-06
-
+http://vds.91kds.cn/live1/fjqztv.m3u8?id=fjqztv1
 #EXTINF:-1 tvg-name="泉州新闻7"  group-title="泉州新闻",泉州新闻7测试
-https://8.218.63.65:88/http://vds.91kds.cn/live1/fjqztv.m3u8?id=fjqztv1&app=com.fftv.tvbox&version=1.0.2&mac=fu:ck:92:92:ff&nwtime=1749202484&sign=868a3237f81810ed2acb93d8d537faa7&ev=20240918
+https://8.218.63.65:88/http://vds.91kds.cn/live1/fjqztv.m3u8?id=fjqztv1
