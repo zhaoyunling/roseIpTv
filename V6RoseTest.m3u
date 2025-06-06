@@ -20,9 +20,7 @@ http://117.27.190.42:85/tsfile/live/live_23300_1_11094955.ts?key=txiptv&key2=110
 http://117.27.190.42:85/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-name="泉州新闻3"  group-title="泉州新闻",泉州新闻3
-http://tvapi.yunshangtv.cc/api/diyp.php?ch=%E6%B3%89%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&date=2025-06-06
-
+http://vds.91kds.cn/live1/fjqztv.m3u8?id=fjqztv1&app=com.canghaitv.tvbox&version=1.0.1&mac=fu:ck:92:92:ff&nwtime=1749211683&sign=196c55e2aa46e42eaebea695c14c17e7&ev=20240918
 #EXTINF:-1 tvg-name="泉州新闻4"  group-title="泉州新闻",泉州新闻4
-http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?auth_key=1749296860-0-0-77d25df5b0cd7c04e7e5e711c06f7606
-
+http://tvapius.canghaitv.com/api/diyp.php?ch=%E6%B3%89%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&date=2025-06-06
 
