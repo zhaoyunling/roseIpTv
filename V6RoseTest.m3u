@@ -11,3 +11,8 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/zhaoyunling/roseIpTv/
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="移动央卫备用" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
 http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8
+
+
+
+#EXTINF:-1 tvg-name="泉州新闻"  group-title="泉州新闻",泉州新闻
+http://117.27.190.42:85/tsfile/live/live_23300_1_11094955.ts?key=txiptv&key2=11094955
