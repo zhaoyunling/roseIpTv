@@ -25,6 +25,5 @@ http://tvapi.yunshangtv.cc/api/diyp.php?ch=%E6%B3%89%E5%B7%9E%E6%96%B0%E9%97%BB%
 #EXTINF:-1 tvg-name="泉州新闻4"  group-title="泉州新闻",泉州新闻4
 http://vds.91kds.cn/live1/fjqztv.m3u8?id=fjqztv1&app=com.fftv.tvbox&version=1.0.2&mac=fu:ck:92:92:ff&nwtime=1749202484&sign=868a3237f81810ed2acb93d8d537faa7&ev=20240918
 #EXTINF:-1 tvg-name="泉州新闻5"  group-title="泉州新闻",泉州新闻5
-#EXTINF:-1 tvg-name="泉州新闻5"  group-title="泉州新闻",泉州新闻5
 https://live.qztv.cn
 
