@@ -15,7 +15,7 @@ http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8
 
 
 #EXTINF:-1 tvg-name="泉州新闻"  group-title="泉州新闻",泉州新闻
-http://vds.91kds.cn/http://117.27.190.42:85/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
+https://8.218.63.65:88/http://117.27.190.42:85/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-name="泉州新闻2"  group-title="泉州新闻",泉州新闻2
 http://117.27.190.42:85/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
