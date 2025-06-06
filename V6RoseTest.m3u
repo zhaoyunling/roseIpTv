@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="http://tvapius.canghaitv.com/api/diyp.php?ch=%E6%B3%89%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&date=2025-06-06" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
@@ -16,6 +16,7 @@ http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8
 
 #EXTINF:-1 tvg-name="泉州新闻"  group-title="泉州新闻",泉州新闻
 http://117.27.190.42:85/tsfile/live/live_23300_1_11094955.ts?key=txiptv&key2=11094955
+
 #EXTINF:-1 tvg-name="泉州新闻2"  group-title="泉州新闻",泉州新闻2
 http://117.27.190.42:85/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
 
