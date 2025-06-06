@@ -13,6 +13,12 @@ http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8
 
 
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视本源",CCTV2
+http://183.207.248.71/cntv/live1/cctv-2/cctv-2
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视本源",CCTV1
+http://183.207.248.71/cntv/live1/cctv-1/cctv-1
+
 
 #EXTINF:-1 tvg-name="泉州新闻"  group-title="泉州新闻",泉州新闻
 https://8.218.63.65:88/http://117.27.190.42:85/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
